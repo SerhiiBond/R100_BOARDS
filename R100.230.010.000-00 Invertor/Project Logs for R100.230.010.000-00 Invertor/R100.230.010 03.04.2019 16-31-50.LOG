@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=VOUT+_3 Pin=L2-1
+Removed Pin From Net: NetName=VOUT-_3 Pin=L6-2
+Removed Pin From Net: NetName=+VIN_200 Pin=VD4-1
+Removed Pin From Net: NetName=-VIN_200 Pin=VD4-4
+Removed Pin From Net: NetName=GND Pin=XP1-1
+Removed Pin From Net: NetName=GND Pin=XP1-4
+Removed Pin From Net: NetName=GND Pin=XP1-5
+Removed Pin From Net: NetName=GND Pin=XP1-8
+Removed Member From Class: ClassName=01_Invertor Member=C20
+Removed Member From Class: ClassName=01_Invertor Member=C21
+Removed Member From Class: ClassName=01_Invertor Member=C22
+Removed Member From Class: ClassName=01_Invertor Member=C23
+Removed Member From Class: ClassName=01_Invertor Member=C25
+Removed Member From Class: ClassName=01_Invertor Member=C28
+Removed Member From Class: ClassName=01_Invertor Member=C31
+Removed Member From Class: ClassName=01_Invertor Member=C32
+Removed Member From Class: ClassName=01_Invertor Member=K1
+Removed Member From Class: ClassName=01_Invertor Member=L2
+Removed Member From Class: ClassName=01_Invertor Member=L3
+Removed Member From Class: ClassName=01_Invertor Member=L4
+Removed Member From Class: ClassName=01_Invertor Member=L6
+Removed Member From Class: ClassName=01_Invertor Member=L7
+Removed Member From Class: ClassName=01_Invertor Member=L8
+Removed Member From Class: ClassName=01_Invertor Member=R5
+Removed Member From Class: ClassName=01_Invertor Member=R6
+Removed Member From Class: ClassName=01_Invertor Member=R7
+Removed Member From Class: ClassName=01_Invertor Member=R10
+Removed Member From Class: ClassName=01_Invertor Member=R11
+Removed Member From Class: ClassName=01_Invertor Member=R12
+Removed Member From Class: ClassName=01_Invertor Member=R13
+Removed Member From Class: ClassName=01_Invertor Member=R14
+Removed Member From Class: ClassName=01_Invertor Member=R15
+Removed Member From Class: ClassName=01_Invertor Member=R16
+Removed Member From Class: ClassName=01_Invertor Member=VD4
+Removed Member From Class: ClassName=01_Invertor Member=VD8
+Removed Member From Class: ClassName=01_Invertor Member=VD9
+Removed Member From Class: ClassName=01_Invertor Member=XP1
+Change Component Footprint: Designator=X6 Old Footprint=35362-0450 New Footprint=B3P-VH
+Change Component Footprint: Designator=C8 Old Footprint=C Y2 D13 7.5B New Footprint=El_D35_H45_LS10
+Change Component Footprint: Designator=C9 Old Footprint=C Y2 D13 7.5B New Footprint=El_D35_H45_LS10
+Change Component Footprint: Designator=C10 Old Footprint=SMD_C_1812 New Footprint=El_D35_H45_LS10
+Change Component Footprint: Designator=C6 Old Footprint=SMD_C_2220 New Footprint=El_D35_H45_LS10
+Change Component Comment : Designator=C10 Old Comment=0.1u New Comment=470uF 450V
+Change Component Comment : Designator=C8 Old Comment=10nF 300V New Comment=470uF 450V
+Change Component Comment : Designator=C9 Old Comment=10nF 300V New Comment=470uF 450V
+Change Component Comment : Designator=C6 Old Comment=4700pF X1/Y2 New Comment=470uF 450V
+Change Component Comment : Designator=X6 Old Comment=Sherlock 4 New Comment=B3P-VH
+Added Pin To Net: NetName=+VIN_200 Pin=C6-1
+Added Pin To Net: NetName=-VIN_200 Pin=C6-2
+Added Pin To Net: NetName=+VIN_200 Pin=C8-1
+Added Pin To Net: NetName=-VIN_200 Pin=C8-2
+Added Pin To Net: NetName=+VIN_200 Pin=C9-1
+Added Pin To Net: NetName=-VIN_200 Pin=C9-2
+Added Pin To Net: NetName=+VIN_200 Pin=C10-1
+Added Pin To Net: NetName=-VIN_200 Pin=C10-2
+Added Pin To Net: NetName=VOUT+_3 Pin=X5-1
+Added Pin To Net: NetName=VOUT+_3 Pin=X5-2
+Added Pin To Net: NetName=VOUT-_3 Pin=X5-3
+Added Pin To Net: NetName=VOUT-_3 Pin=X5-4
+Added Pin To Net: NetName=+VIN_200 Pin=X6-1
+Added Pin To Net: NetName=-VIN_200 Pin=X6-3
+Added Room: Name=01_Invertor
+Added Room: Name=02_Driver

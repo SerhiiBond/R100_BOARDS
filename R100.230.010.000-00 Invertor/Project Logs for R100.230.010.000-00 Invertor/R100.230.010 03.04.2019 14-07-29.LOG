@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND_SINK Pin=HS1-1
+Removed Pin From Net: NetName=GND_SINK Pin=HS1-2
+Removed Pin From Net: NetName=GND_SINK Pin=HS2-1
+Removed Pin From Net: NetName=GND_SINK Pin=HS3-1
+Removed Pin From Net: NetName=GND_SINK Pin=HS3-2
+Removed Pin From Net: NetName=GND_SINK Pin=HS4-1
+Removed Pin From Net: NetName=GND_SINK Pin=HS4-2
+Added Pin To Net: NetName=NetHS1_1 Pin=HS1-1
+Added Pin To Net: NetName=NetHS1_1 Pin=HS3-1
+Added Pin To Net: NetName=NetHS1_1 Pin=HS3-2
+Added Net: Name=NetHS1_1
+Added Pin To Net: NetName=NetHS1_2 Pin=HS1-2
+Added Pin To Net: NetName=NetHS1_2 Pin=HS4-2
+Added Net: Name=NetHS1_2
+Added Pin To Net: NetName=NetHS2_1 Pin=HS2-1
+Added Pin To Net: NetName=NetHS2_1 Pin=HS4-1
+Added Net: Name=NetHS2_1
+Change Class Name : Old Net Name=SourceBoard_v1 New Net Name=01_Invertor
+Change Class Name : Old Net Name=SourceBoard_v1_sheet2 New Net Name=02_Driver
+Added Room: Name=01_Invertor
+Added Room: Name=02_Driver

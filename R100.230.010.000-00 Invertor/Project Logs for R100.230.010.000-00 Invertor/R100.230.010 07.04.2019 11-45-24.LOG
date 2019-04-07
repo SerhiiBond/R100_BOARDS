@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND_SINK Pin=C5-1
+Removed Pin From Net: NetName=+VIN_200 Pin=C13-1
+Removed Pin From Net: NetName=-VIN_200 Pin=C13-2
+Removed Pin From Net: NetName=+VIN_200 Pin=C14-1
+Removed Pin From Net: NetName=-VIN_200 Pin=C14-2
+Removed Pin From Net: NetName=GND_SINK Pin=C27-2
+Removed Pin From Net: NetName=+VIN_200 Pin=C33-2
+Removed Pin From Net: NetName=VOUT+_4 Pin=L1-1
+Removed Pin From Net: NetName=VOUT-_4 Pin=L5-2
+Removed Pin From Net: NetName=-VIN_200 Pin=X6-3
+Removed Pin From Net: NetName=GND_SINK Pin=X7-1
+Removed Pin From Net: NetName=GND_SINK Pin=X7-2
+Removed Member From Class: ClassName=01_Invertor Member=C5
+Removed Member From Class: ClassName=01_Invertor Member=C7
+Removed Member From Class: ClassName=01_Invertor Member=C13
+Removed Member From Class: ClassName=01_Invertor Member=C14
+Removed Member From Class: ClassName=01_Invertor Member=C18
+Removed Member From Class: ClassName=01_Invertor Member=C19
+Removed Member From Class: ClassName=01_Invertor Member=C27
+Removed Member From Class: ClassName=01_Invertor Member=L1
+Removed Member From Class: ClassName=01_Invertor Member=L5
+Removed Member From Class: ClassName=01_Invertor Member=R1
+Removed Member From Class: ClassName=01_Invertor Member=R4
+Removed Member From Class: ClassName=01_Invertor Member=X7
+Change Component Designator: OldDesignator=X1 NewDesignator=X7
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X4 NewDesignator=X2
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Change Component Designator: OldDesignator=X7 NewDesignator=X5
+Added Component: Designator=X6(63849-1)
+Added Pin To Net: NetName=NetHS1_1 Pin=HS1-2
+Added Pin To Net: NetName=GND_SINK Pin=HS2-1
+Added Pin To Net: NetName=GND_SINK Pin=HS4-1
+Added Pin To Net: NetName=NetHS1_1 Pin=HS4-2
+Added Pin To Net: NetName=VOUT+_4 Pin=X5-1
+Added Pin To Net: NetName=VOUT+_4 Pin=X5-2
+Added Pin To Net: NetName=VOUT-_4 Pin=X6-1
+Added Pin To Net: NetName=VOUT-_4 Pin=X6-2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=X4-3
+Added Net: Name=NetC33_2
+Change Class Name : Old Net Name=02_Driver New Net Name=02_Invertor
+Added Member To Class: ClassName=01_Invertor Member=Component X6 63849-1
+Added Room: Name=01_Invertor
+Added Room: Name=02_Invertor

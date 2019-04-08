@@ -1,0 +1,8 @@
+Added Component: Designator=C5(SMD_C_2220)
+Added Component: Designator=C7(SMD_C_2220)
+Added Pin To Net: NetName=+VIN_200 Pin=C5-1
+Added Pin To Net: NetName=GND_SINK Pin=C5-2
+Added Pin To Net: NetName=GND_SINK Pin=C7-1
+Added Pin To Net: NetName=-VIN_200 Pin=C7-2
+Added Member To Class: ClassName=01_Invertor Member=Component C5 4700pF X1/Y2
+Added Member To Class: ClassName=01_Invertor Member=Component C7 4700pF X1/Y2

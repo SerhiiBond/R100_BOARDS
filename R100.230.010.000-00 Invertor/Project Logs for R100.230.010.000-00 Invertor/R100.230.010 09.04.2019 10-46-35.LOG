@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND_SINK Pin=HS1-1
+Added Pin To Net: NetName=GND_SINK Pin=HS1-2
+Added Pin To Net: NetName=GND_SINK Pin=HS3-1
+Added Pin To Net: NetName=GND_SINK Pin=HS3-2
+Added Pin To Net: NetName=GND_SINK Pin=HS4-2

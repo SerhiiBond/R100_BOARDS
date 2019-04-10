@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=DA2 NewDesignator=DD3
+Change Component Designator: OldDesignator=DA5 NewDesignator=DD4
+Added Room: Name=01_Invertor
+Added Room: Name=02_Invertor

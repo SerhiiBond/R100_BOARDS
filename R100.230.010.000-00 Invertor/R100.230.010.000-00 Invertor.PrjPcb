@@ -175,58 +175,62 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\Design Rule Check - SourceBoard_v1.html
+DocumentPath=Project Outputs for R100.230.010.000-00 Invertor\Design Rule Check - R100.230.010.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.DRR
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\Design Rule Check - SourceBoard_v1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.EXTREP
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBL
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBO
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBS
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GM1
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTL
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTO
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTS
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.LDP
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.REP
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.RUL
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.TXT
 DItemRevisionGUID=
 
@@ -245,7 +249,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -366,7 +370,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -495,17 +499,11 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Logic Analyser Print
-OutputName20=Logic Analyser Prints
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -527,7 +525,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -603,7 +601,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -652,7 +650,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -832,7 +830,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -871,7 +869,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=SEC30CDA7EB5137
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB

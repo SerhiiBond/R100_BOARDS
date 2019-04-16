@@ -1,0 +1,5 @@
+Added Component: Designator=L2(Dross (900/450 uH) R100230.041.000)
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetC2_1 Pin=L2-2
+Added Member To Class: ClassName=Filtr1 Member=Component L2 900/450uH 30A
+Added Room: Name=Filtr1

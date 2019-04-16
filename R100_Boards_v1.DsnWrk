@@ -3,4 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=R100.230.010.000-00 Invertor\R100.230.010.000-00 Invertor.PrjPcb
 [Project2]
-ProjectPath=R100.230.040.000-00 Filtr2\R100.230.040.000-00 Filtr2.PrjPcb
+ProjectPath=R100.230.040.000-00 Filtr1\R100.230.040.000-00 Filtr1.PrjPcb
+[Project3]
+ProjectPath=R100.230.050.000-00 Filtr2\R100.230.050.000-00 Filtr2.PrjPcb

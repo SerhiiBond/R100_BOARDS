@@ -6,3 +6,5 @@ ProjectPath=R100.230.010.000-00 Invertor\R100.230.010.000-00 Invertor.PrjPcb
 ProjectPath=R100.230.040.000-00 Filtr1\R100.230.040.000-00 Filtr1.PrjPcb
 [Project3]
 ProjectPath=R100.230.050.000-00 Filtr2\R100.230.050.000-00 Filtr2.PrjPcb
+[Project4]
+ProjectPath=R100.230.030.000-00 ControlVR\R100.230.030.000-00 ControlVR.PrjPcb

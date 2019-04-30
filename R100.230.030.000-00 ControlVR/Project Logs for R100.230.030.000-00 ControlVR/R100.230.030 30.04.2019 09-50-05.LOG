@@ -1,0 +1,22 @@
+Added Component: Designator=DD1(TSSOP20)
+Added Pin To Net: NetName=+5V Pin=DD1-1
+Added Pin To Net: NetName=NetC132_2 Pin=DD1-2
+Added Pin To Net: NetName=NetC131_2 Pin=DD1-3
+Added Pin To Net: NetName=NetC130_2 Pin=DD1-4
+Added Pin To Net: NetName=NetC129_2 Pin=DD1-5
+Added Pin To Net: NetName=NetC1_2 Pin=DD1-6
+Added Pin To Net: NetName=NetC134_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC135_2 Pin=DD1-8
+Added Pin To Net: NetName=NetC136_2 Pin=DD1-9
+Added Pin To Net: NetName=GND_C Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_16 Pin=DD1-16
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_18 Pin=DD1-18
+Added Pin To Net: NetName=GND_C Pin=DD1-19
+Added Pin To Net: NetName=+5V Pin=DD1-20
+Added Member To Class: ClassName=10_MeasOutUI Member=Component DD1 74HCT245PW

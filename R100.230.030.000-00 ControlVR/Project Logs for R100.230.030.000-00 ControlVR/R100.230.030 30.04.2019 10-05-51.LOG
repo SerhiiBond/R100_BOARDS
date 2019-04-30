@@ -1,0 +1,4 @@
+Added Component: Designator=F6(MF-MSMF010)
+Added Pin To Net: NetName=+12V Pin=F6-1
+Added Pin To Net: NetName=NetF6_2 Pin=F6-2
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component F6 0.1A 60VDC 15R

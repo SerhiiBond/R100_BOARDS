@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12V Pin=K6-3
+Removed Pin From Net: NetName=SW_REL_12V Pin=K8-4
+Added Pin To Net: NetName=SW_REL_12V Pin=K6-4
+Added Pin To Net: NetName=+12V Pin=K8-3
+Added Pin To Net: NetName=NetK6_3 Pin=K6-3
+Added Pin To Net: NetName=NetK6_3 Pin=K8-4
+Added Net: Name=NetK6_3

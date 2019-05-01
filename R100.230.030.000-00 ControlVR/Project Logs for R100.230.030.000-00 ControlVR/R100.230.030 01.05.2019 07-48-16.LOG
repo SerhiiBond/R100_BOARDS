@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GREEN Pin=K7-2
+Removed Pin From Net: NetName=NetK7_3 Pin=K7-3
+Removed Pin From Net: NetName=YELLOW Pin=K7-5
+Removed Pin From Net: NetName=RED Pin=K9-5
+Removed Pin From Net: NetName=NetK7_3 Pin=K9-7
+Removed Pin From Net: NetName=~220V_L Pin=K11-3
+Removed Pin From Net: NetName=BUZZER Pin=K11-4
+Removed Pin From Net: NetName=BUZZER Pin=K11-5
+Change Component Designator: OldDesignator=K7 NewDesignator=K11
+Change Component Designator: OldDesignator=K9 NewDesignator=K7
+Change Component Designator: OldDesignator=K11 NewDesignator=K9
+Added Pin To Net: NetName=GREEN Pin=K7-2
+Added Pin To Net: NetName=NetK7_3 Pin=K7-3
+Added Pin To Net: NetName=YELLOW Pin=K7-5
+Added Pin To Net: NetName=RED Pin=K9-5
+Added Pin To Net: NetName=NetK7_3 Pin=K9-7
+Added Pin To Net: NetName=~220V_L Pin=K11-3
+Added Pin To Net: NetName=BUZZER Pin=K11-4
+Added Pin To Net: NetName=BUZZER Pin=K11-5
+Change Net Name : Old Net Name=NetK7_8 New Net Name=NetK11_8
+Change Net Name : Old Net Name=NetK9_8 New Net Name=NetK7_8
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

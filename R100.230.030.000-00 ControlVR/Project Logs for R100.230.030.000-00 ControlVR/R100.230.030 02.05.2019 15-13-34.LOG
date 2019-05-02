@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC111_2 Pin=RN10-1
+Removed Pin From Net: NetName=NetC112_2 Pin=RN10-2
+Removed Pin From Net: NetName=NetC113_2 Pin=RN10-3
+Removed Pin From Net: NetName=NetC114_2 Pin=RN10-4
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=RN10-5
+Removed Pin From Net: NetName=EXT_OFF_2 Pin=RN10-6
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=RN10-7
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=RN10-8
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=RN10-1
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=RN10-2
+Added Pin To Net: NetName=EXT_OFF_2 Pin=RN10-3
+Added Pin To Net: NetName=FREE_BIT_IN_1 Pin=RN10-4
+Added Pin To Net: NetName=NetC114_2 Pin=RN10-5
+Added Pin To Net: NetName=NetC113_2 Pin=RN10-6
+Added Pin To Net: NetName=NetC112_2 Pin=RN10-7
+Added Pin To Net: NetName=NetC111_2 Pin=RN10-8

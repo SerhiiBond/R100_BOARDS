@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND_C Pin=C137-1
+Removed Pin From Net: NetName=PRT_ALARM_1 Pin=C137-2
+Removed Pin From Net: NetName=GND_C Pin=C138-1
+Removed Pin From Net: NetName=ADC1_MISO Pin=C138-2
+Removed Pin From Net: NetName=GND_C Pin=C139-1
+Removed Pin From Net: NetName=ADC1_ALARM Pin=C139-2
+Removed Pin From Net: NetName=NetDD1_11 Pin=R91-1
+Removed Pin From Net: NetName=PRT_ALARM_1 Pin=R91-2
+Removed Member From Class: ClassName=10_MeasOutUI Member=C137
+Removed Member From Class: ClassName=10_MeasOutUI Member=C138
+Removed Member From Class: ClassName=10_MeasOutUI Member=C139
+Removed Member From Class: ClassName=10_MeasOutUI Member=R91
+Added Pin To Net: NetName=NetDD1_11 Pin=RN2-4
+Added Pin To Net: NetName=PRT_ALARM_1 Pin=RN2-5
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

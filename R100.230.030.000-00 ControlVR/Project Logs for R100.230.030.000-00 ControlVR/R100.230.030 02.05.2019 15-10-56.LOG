@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SYNC_PWM Pin=RN9-1
+Removed Pin From Net: NetName=SYNC_STEP Pin=RN9-2
+Removed Pin From Net: NetName=EXT_OFF_1 Pin=RN9-3
+Removed Pin From Net: NetName=FREE_BIT_IN Pin=RN9-4
+Removed Pin From Net: NetName=NetDD22_12 Pin=RN9-5
+Removed Pin From Net: NetName=NetDD22_13 Pin=RN9-6
+Removed Pin From Net: NetName=NetDD22_14 Pin=RN9-7
+Removed Pin From Net: NetName=NetDD22_15 Pin=RN9-8
+Added Pin To Net: NetName=NetDD22_15 Pin=RN9-1
+Added Pin To Net: NetName=NetDD22_14 Pin=RN9-2
+Added Pin To Net: NetName=NetDD22_13 Pin=RN9-3
+Added Pin To Net: NetName=NetDD22_12 Pin=RN9-4
+Added Pin To Net: NetName=FREE_BIT_IN Pin=RN9-5
+Added Pin To Net: NetName=EXT_OFF_1 Pin=RN9-6
+Added Pin To Net: NetName=SYNC_STEP Pin=RN9-7
+Added Pin To Net: NetName=SYNC_PWM Pin=RN9-8

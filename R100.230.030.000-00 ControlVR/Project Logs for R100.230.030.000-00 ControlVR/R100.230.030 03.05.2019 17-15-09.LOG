@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND_C Pin=C90-1
+Removed Pin From Net: NetName=+3V3 Pin=C90-2
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=C90
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

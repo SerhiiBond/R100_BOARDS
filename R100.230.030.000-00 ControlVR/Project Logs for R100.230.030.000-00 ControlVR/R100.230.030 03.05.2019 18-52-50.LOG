@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=SDA_EEPROM Pin=DD2-10
+Removed Pin From Net: NetName=SCL_EEPROM Pin=DD2-11
+Removed Pin From Net: NetName=WP_EEPROM Pin=DD2-12
+Removed Pin From Net: NetName=LED_DISCHARGE Pin=DD2-141
+Removed Pin From Net: NetName=BTN_DISCHARGE Pin=DD2-142
+Added Pin To Net: NetName=BTN_DISCHARGE Pin=DD2-63
+Added Pin To Net: NetName=LED_DISCHARGE Pin=DD2-64
+Added Pin To Net: NetName=SCL_EEPROM Pin=DD2-69
+Added Pin To Net: NetName=SDA_EEPROM Pin=DD2-70
+Added Pin To Net: NetName=WP_EEPROM Pin=DD2-73
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

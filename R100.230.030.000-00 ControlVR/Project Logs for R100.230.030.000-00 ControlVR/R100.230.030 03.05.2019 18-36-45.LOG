@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FREE_BIT_IN Pin=DD2-63
+Removed Pin From Net: NetName=SYNC_STEP Pin=DD2-64
+Removed Pin From Net: NetName=SYNC_PWM Pin=DD2-65
+Removed Pin From Net: NetName=FREE_BIT_OUT Pin=DD2-67
+Added Pin To Net: NetName=SYNC_PWM Pin=DD2-89
+Added Pin To Net: NetName=SYNC_STEP Pin=DD2-90
+Added Pin To Net: NetName=FREE_BIT_OUT Pin=DD2-91
+Added Pin To Net: NetName=FREE_BIT_IN Pin=DD2-92

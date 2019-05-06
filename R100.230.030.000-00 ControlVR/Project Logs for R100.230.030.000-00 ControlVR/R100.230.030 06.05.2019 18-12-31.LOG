@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetDD1_14 Pin=RN2-1
+Removed Pin From Net: NetName=NetDD1_13 Pin=RN2-2
+Removed Pin From Net: NetName=NetDD1_12 Pin=RN2-3
+Removed Pin From Net: NetName=NetDD1_11 Pin=RN2-4
+Removed Pin From Net: NetName=PRT_ALARM_1 Pin=RN2-5
+Removed Pin From Net: NetName=ADC1_MISO Pin=RN2-6
+Removed Pin From Net: NetName=ADC1_ALARM Pin=RN2-7
+Removed Pin From Net: NetName=PRT_RST_1 Pin=RN2-8
+Removed Pin From Net: NetName=ADC1_CS Pin=RN3-1
+Removed Pin From Net: NetName=ADC1_RST Pin=RN3-2
+Removed Pin From Net: NetName=ADC1_MOSI Pin=RN3-3
+Removed Pin From Net: NetName=PRT_RST Pin=RN3-4
+Removed Pin From Net: NetName=NetC1_2 Pin=RN3-5
+Removed Pin From Net: NetName=NetC129_2 Pin=RN3-6
+Removed Pin From Net: NetName=NetC130_2 Pin=RN3-7
+Removed Pin From Net: NetName=NetC131_2 Pin=RN3-8
+Removed Member From Class: ClassName=10_MeasOutUI Member=RN2
+Removed Member From Class: ClassName=10_MeasOutUI Member=RN3
+Added Component: Designator=C137(SMD_C_0603)
+Added Component: Designator=C138(SMD_C_0603)
+Added Component: Designator=C139(SMD_C_0603)
+Added Component: Designator=R135(SMD_R_0603)
+Added Component: Designator=R142(SMD_R_0603)
+Added Component: Designator=R143(SMD_R_0603)
+Added Component: Designator=R144(SMD_R_0603)
+Added Component: Designator=R145(SMD_R_0603)
+Added Component: Designator=R146(SMD_R_0603)
+Added Component: Designator=R147(SMD_R_0603)
+Added Component: Designator=R148(SMD_R_0603)
+Added Pin To Net: NetName=GND_C Pin=C137-1
+Added Pin To Net: NetName=PRT_ALARM_1 Pin=C137-2
+Added Pin To Net: NetName=GND_C Pin=C138-1
+Added Pin To Net: NetName=ADC1_MISO Pin=C138-2
+Added Pin To Net: NetName=GND_C Pin=C139-1
+Added Pin To Net: NetName=ADC1_ALARM Pin=C139-2
+Added Pin To Net: NetName=ADC1_CS Pin=R135-1
+Added Pin To Net: NetName=NetC131_2 Pin=R135-2
+Added Pin To Net: NetName=ADC1_RST Pin=R142-1
+Added Pin To Net: NetName=NetC130_2 Pin=R142-2
+Added Pin To Net: NetName=ADC1_MOSI Pin=R143-1
+Added Pin To Net: NetName=NetC129_2 Pin=R143-2
+Added Pin To Net: NetName=PRT_RST Pin=R144-1
+Added Pin To Net: NetName=NetC1_2 Pin=R144-2
+Added Pin To Net: NetName=NetDD1_14 Pin=R145-1
+Added Pin To Net: NetName=PRT_RST_1 Pin=R145-2
+Added Pin To Net: NetName=NetDD1_13 Pin=R146-1
+Added Pin To Net: NetName=ADC1_ALARM Pin=R146-2
+Added Pin To Net: NetName=NetDD1_12 Pin=R147-1
+Added Pin To Net: NetName=ADC1_MISO Pin=R147-2
+Added Pin To Net: NetName=NetDD1_11 Pin=R148-1
+Added Pin To Net: NetName=PRT_ALARM_1 Pin=R148-2
+Added Member To Class: ClassName=10_MeasOutUI Member=Component C137 100p
+Added Member To Class: ClassName=10_MeasOutUI Member=Component C138 100p
+Added Member To Class: ClassName=10_MeasOutUI Member=Component C139 100p
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R76 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R135 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R142 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R143 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R144 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R145 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R146 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R147 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R148 100

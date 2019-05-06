@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RX_INT Pin=DD2-58
+Removed Pin From Net: NetName=TX_INT Pin=DD2-59
+Removed Pin From Net: NetName=EXT_FUN_PWM Pin=DD2-81
+Removed Pin From Net: NetName=EXT_FUN_SP2 Pin=DD2-98
+Removed Pin From Net: NetName=EXT_FUN_SP1 Pin=DD2-99
+Added Pin To Net: NetName=EXT_FUN_PWM Pin=DD2-35
+Added Pin To Net: NetName=EXT_FUN_SP1 Pin=DD2-46
+Added Pin To Net: NetName=EXT_FUN_SP2 Pin=DD2-47
+Added Pin To Net: NetName=RX_INT Pin=DD2-119
+Added Pin To Net: NetName=TX_INT Pin=DD2-122

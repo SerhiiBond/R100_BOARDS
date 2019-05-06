@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=RX_RS485 Pin=RN8-1
+Removed Pin From Net: NetName=\R\E\/DE Pin=RN8-2
+Removed Pin From Net: NetName=TX_RS485 Pin=RN8-3
+Removed Pin From Net: NetName=NetC98_2 Pin=RN8-6
+Removed Pin From Net: NetName=NetC97_2 Pin=RN8-7
+Removed Pin From Net: NetName=NetDD21_3 Pin=RN8-8
+Removed Pin From Net: NetName=NetDD22_15 Pin=RN9-1
+Removed Pin From Net: NetName=NetDD22_14 Pin=RN9-2
+Removed Pin From Net: NetName=NetDD22_13 Pin=RN9-3
+Removed Pin From Net: NetName=NetDD22_12 Pin=RN9-4
+Removed Pin From Net: NetName=FREE_BIT_IN Pin=RN9-5
+Removed Pin From Net: NetName=EXT_OFF_1 Pin=RN9-6
+Removed Pin From Net: NetName=SYNC_STEP Pin=RN9-7
+Removed Pin From Net: NetName=SYNC_PWM Pin=RN9-8
+Removed Member From Class: ClassName=08_Parallel_operation Member=RN8
+Removed Member From Class: ClassName=08_Parallel_operation Member=RN9
+Added Component: Designator=R135(SMD_R_0603)
+Added Component: Designator=R136(SMD_R_0603)
+Added Component: Designator=R137(SMD_R_0603)
+Added Component: Designator=R138(SMD_R_0603)
+Added Component: Designator=R139(SMD_R_0603)
+Added Component: Designator=R140(SMD_R_0603)
+Added Component: Designator=R141(SMD_R_0603)
+Added Pin To Net: NetName=RX_RS485 Pin=R135-1
+Added Pin To Net: NetName=NetDD21_3 Pin=R135-2
+Added Pin To Net: NetName=\R\E\/DE Pin=R136-1
+Added Pin To Net: NetName=NetC97_2 Pin=R136-2
+Added Pin To Net: NetName=TX_RS485 Pin=R137-1
+Added Pin To Net: NetName=NetC98_2 Pin=R137-2
+Added Pin To Net: NetName=SYNC_PWM Pin=R138-1
+Added Pin To Net: NetName=NetDD22_15 Pin=R138-2
+Added Pin To Net: NetName=SYNC_STEP Pin=R139-1
+Added Pin To Net: NetName=NetDD22_14 Pin=R139-2
+Added Pin To Net: NetName=EXT_OFF_1 Pin=R140-1
+Added Pin To Net: NetName=NetDD22_13 Pin=R140-2
+Added Pin To Net: NetName=FREE_BIT_IN Pin=R141-1
+Added Pin To Net: NetName=NetDD22_12 Pin=R141-2
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R135 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R136 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R137 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R138 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R139 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R140 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R141 100

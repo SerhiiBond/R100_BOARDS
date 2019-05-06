@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetDD12_2 Pin=RN6-1
+Removed Pin From Net: NetName=NetDD12_4 Pin=RN6-2
+Removed Pin From Net: NetName=NetDD12_6 Pin=RN6-3
+Removed Pin From Net: NetName=NetC67_2 Pin=RN6-4
+Removed Pin From Net: NetName=RST_ALARM Pin=RN6-5
+Removed Pin From Net: NetName=PRT_ALARM Pin=RN6-6
+Removed Pin From Net: NetName=ES_ALARM Pin=RN6-7
+Removed Pin From Net: NetName=LS_ALARM Pin=RN6-8
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=RN6
+Added Component: Designator=R131(SMD_R_0603)
+Added Component: Designator=R132(SMD_R_0603)
+Added Component: Designator=R133(SMD_R_0603)
+Added Component: Designator=R134(SMD_R_0603)
+Added Pin To Net: NetName=NetDD12_2 Pin=R131-1
+Added Pin To Net: NetName=LS_ALARM Pin=R131-2
+Added Pin To Net: NetName=NetDD12_4 Pin=R132-1
+Added Pin To Net: NetName=ES_ALARM Pin=R132-2
+Added Pin To Net: NetName=NetDD12_6 Pin=R133-1
+Added Pin To Net: NetName=PRT_ALARM Pin=R133-2
+Added Pin To Net: NetName=NetC67_2 Pin=R134-1
+Added Pin To Net: NetName=RST_ALARM Pin=R134-2
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R131 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R132 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R133 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R134 100

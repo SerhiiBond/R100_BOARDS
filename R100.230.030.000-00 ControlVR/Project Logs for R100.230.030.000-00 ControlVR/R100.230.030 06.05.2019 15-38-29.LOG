@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=BOOT Pin=DD4-4
+Removed Pin From Net: NetName=NetDD5_5 Pin=RN4-1
+Removed Pin From Net: NetName=RTS Pin=RN4-2
+Removed Pin From Net: NetName=NetDD5_1 Pin=RN4-4
+Removed Pin From Net: NetName=RX_DEB Pin=RN4-5
+Removed Pin From Net: NetName=NetDD4_1 Pin=RN4-6
+Removed Pin From Net: NetName=USB_RST Pin=RN4-7
+Removed Pin From Net: NetName=TX_DEB Pin=RN4-8
+Removed Member From Class: ClassName=04_Debugging Member=RN4
+Added Component: Designator=C90(SMD_C_0603)
+Added Component: Designator=R91(SMD_R_0603)
+Added Component: Designator=R128(SMD_R_0603)
+Added Component: Designator=R129(SMD_R_0603)
+Added Component: Designator=R130(SMD_R_0603)
+Added Pin To Net: NetName=NetDD4_1 Pin=C90-1
+Added Pin To Net: NetName=GND_C Pin=C90-2
+Added Pin To Net: NetName=NetDD4_1 Pin=DD5-2
+Added Pin To Net: NetName=NetDD5_1 Pin=R91-1
+Added Pin To Net: NetName=RX_DEB Pin=R91-2
+Added Pin To Net: NetName=BOOT Pin=R128-2
+Added Pin To Net: NetName=RTS Pin=R129-1
+Added Pin To Net: NetName=USB_RST Pin=R129-2
+Added Pin To Net: NetName=NetDD5_5 Pin=R130-1
+Added Pin To Net: NetName=TX_DEB Pin=R130-2
+Change Net Name : Old Net Name=NetDD4_1 New Net Name=DTR
+Added Pin To Net: NetName=NetDD4_4 Pin=DD4-4
+Added Pin To Net: NetName=NetDD4_4 Pin=R128-1
+Added Net: Name=NetDD4_4
+Added Member To Class: ClassName=04_Debugging Member=Component C90 100p
+Added Member To Class: ClassName=04_Debugging Member=Component R91 100
+Added Member To Class: ClassName=04_Debugging Member=Component R128 100
+Added Member To Class: ClassName=04_Debugging Member=Component R129 100
+Added Member To Class: ClassName=04_Debugging Member=Component R130 100
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SW_REL_12V Pin=K6-4
+Removed Pin From Net: NetName=+12V Pin=K8-3
+Added Pin To Net: NetName=+12V Pin=K6-3
+Added Pin To Net: NetName=SW_REL_12V Pin=K8-4
+Added Pin To Net: NetName=NetK6_4 Pin=K6-4
+Added Pin To Net: NetName=NetK6_4 Pin=K8-3
+Added Net: Name=NetK6_4
+Added Member To Class: ClassName=07_EEPR_DISCHAR Member=Component VT13 PDTC114ET
+Added Member To Class: ClassName=10_MeasOutUI Member=Component X2 Sherlock 6
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

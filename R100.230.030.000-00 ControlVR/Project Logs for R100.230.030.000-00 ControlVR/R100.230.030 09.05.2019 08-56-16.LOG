@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=ADC1_ALARM_1 Pin=RN5-1
+Removed Pin From Net: NetName=ADC1_MISO_1 Pin=RN5-2
+Removed Pin From Net: NetName=PRT_ALARM_2 Pin=RN5-3
+Removed Pin From Net: NetName=NetC136_2 Pin=RN5-6
+Removed Pin From Net: NetName=NetC135_2 Pin=RN5-7
+Removed Pin From Net: NetName=NetC134_2 Pin=RN5-8
+Removed Member From Class: ClassName=10_MeasOutUI Member=RN5
+Added Component: Designator=R149(SMD_R_0603)
+Added Component: Designator=R150(SMD_R_0603)
+Added Component: Designator=R151(SMD_R_0603)
+Added Pin To Net: NetName=ADC1_ALARM_1 Pin=R149-1
+Added Pin To Net: NetName=NetC134_2 Pin=R149-2
+Added Pin To Net: NetName=ADC1_MISO_1 Pin=R150-1
+Added Pin To Net: NetName=NetC135_2 Pin=R150-2
+Added Pin To Net: NetName=PRT_ALARM_2 Pin=R151-1
+Added Pin To Net: NetName=NetC136_2 Pin=R151-2
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R149 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R150 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R151 100
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=A_485 Pin=X15-2A
+Removed Pin From Net: NetName=ALARM_OUT_2 Pin=X15-3B
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=X15-4B
+Removed Pin From Net: NetName=FREE_BIT_OUT_1 Pin=X15-5B
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X15-6A
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X15-6B
+Removed Pin From Net: NetName=A_485 Pin=X16-2A
+Removed Pin From Net: NetName=ALARM_OUT_2 Pin=X16-3B
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=X16-4B
+Removed Pin From Net: NetName=FREE_BIT_OUT_1 Pin=X16-5B
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X16-6A
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X16-6B
+Added Pin To Net: NetName=A_485 Pin=X15-3B
+Added Pin To Net: NetName=ALARM_OUT_2 Pin=X15-4B
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X15-5A
+Added Pin To Net: NetName=FREE_BIT_IN_1 Pin=X15-5B
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X15-6A
+Added Pin To Net: NetName=FREE_BIT_OUT_1 Pin=X15-6B
+Added Pin To Net: NetName=A_485 Pin=X16-3B
+Added Pin To Net: NetName=ALARM_OUT_2 Pin=X16-4B
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X16-5A
+Added Pin To Net: NetName=FREE_BIT_IN_1 Pin=X16-5B
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X16-6A
+Added Pin To Net: NetName=FREE_BIT_OUT_1 Pin=X16-6B
+Added Member To Class: ClassName=08_Parallel_operation Member=Component X15 MI II (53313-1265)

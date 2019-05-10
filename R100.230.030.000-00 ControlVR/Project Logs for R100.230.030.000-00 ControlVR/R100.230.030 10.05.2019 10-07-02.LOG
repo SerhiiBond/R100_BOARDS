@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X15-3B
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X16-3B
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X15-6B
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X16-6B
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

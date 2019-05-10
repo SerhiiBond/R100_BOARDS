@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X15-3A
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X16-3A
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X15-5B
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X16-5B

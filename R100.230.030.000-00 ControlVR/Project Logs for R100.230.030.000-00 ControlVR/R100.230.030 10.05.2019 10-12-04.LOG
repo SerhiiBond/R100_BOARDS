@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ALARM_EXT Pin=X15-6A
+Removed Pin From Net: NetName=ALARM_EXT Pin=X16-6A
+Added Pin To Net: NetName=ALARM_EXT Pin=X15-3A
+Added Pin To Net: NetName=ALARM_EXT Pin=X16-3A

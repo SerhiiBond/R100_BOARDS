@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=LS_ALARM_SW Pin=L6-3
+Removed Pin From Net: NetName=NetL6_4 Pin=L7-1
+Removed Pin From Net: NetName=NetL8_1 Pin=L9-1
+Removed Pin From Net: NetName=ES_ALARM_SW Pin=L9-2
+Removed Pin From Net: NetName=NetL6_1 Pin=L9-4
+Removed Pin From Net: NetName=NetL6_1 Pin=L10-1
+Removed Pin From Net: NetName=NetL6_4 Pin=VD13-1
+Removed Pin From Net: NetName=NetL6_1 Pin=VD14-1
+Added Pin To Net: NetName=LS_ALARM_SW Pin=L6-2
+Added Pin To Net: NetName=NetL6_1 Pin=L7-1
+Added Pin To Net: NetName=NetL6_4 Pin=L9-1
+Added Pin To Net: NetName=ES_ALARM_SW Pin=L9-3
+Added Pin To Net: NetName=NetL8_1 Pin=L9-4
+Added Pin To Net: NetName=NetL6_4 Pin=L10-1
+Added Pin To Net: NetName=NetL6_1 Pin=VD13-1
+Added Pin To Net: NetName=NetL6_4 Pin=VD14-1
+Added Pin To Net: NetName=NetL6_3 Pin=L6-3
+Added Pin To Net: NetName=NetL6_3 Pin=X9-1
+Added Net: Name=NetL6_3
+Added Pin To Net: NetName=NetL9_2 Pin=L9-2
+Added Pin To Net: NetName=NetL9_2 Pin=X10-1
+Added Net: Name=NetL9_2

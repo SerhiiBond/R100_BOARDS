@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetL6_1 Pin=L9-1
+Removed Pin From Net: NetName=ES_ALARM_SW Pin=L9-3
+Removed Pin From Net: NetName=NetL8_1 Pin=L9-4
+Added Pin To Net: NetName=NetL8_1 Pin=L9-1
+Added Pin To Net: NetName=ES_ALARM_SW Pin=L9-2
+Added Pin To Net: NetName=NetL6_1 Pin=L9-4
+Added Pin To Net: NetName=NetL9_3 Pin=L9-3
+Added Pin To Net: NetName=NetL9_3 Pin=X10-1
+Added Net: Name=NetL9_3

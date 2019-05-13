@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND_C Pin=X9-2
+Removed Pin From Net: NetName=GND_C Pin=X10-2
+Removed Pin From Net: NetName=GND_C Pin=X22-4
+Removed Pin From Net: NetName=GND_C Pin=X23-4
+Added Pin To Net: NetName=GND_SHLD Pin=X9-2
+Added Pin To Net: NetName=GND_SHLD Pin=X10-2
+Added Pin To Net: NetName=GND_SHLD Pin=X22-4
+Added Pin To Net: NetName=GND_SHLD Pin=X23-4
+Added Net: Name=GND_SHLD
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD12 74HC14PW
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD13 74HC08
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD14 74HC00
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

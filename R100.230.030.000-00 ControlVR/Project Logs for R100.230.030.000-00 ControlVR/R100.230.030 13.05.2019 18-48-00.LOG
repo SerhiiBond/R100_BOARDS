@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TEMP_SDA Pin=C168-2
+Removed Pin From Net: NetName=TEMP_SCLK Pin=C169-2
+Removed Pin From Net: NetName=TEMP_SDA Pin=R109-1
+Removed Pin From Net: NetName=TEMP_SCLK Pin=R110-1
+Added Pin To Net: NetName=NetC168_2 Pin=C168-2
+Added Pin To Net: NetName=NetC168_2 Pin=DD32-3
+Added Pin To Net: NetName=NetC168_2 Pin=R109-1
+Added Pin To Net: NetName=NetC168_2 Pin=R111-1
+Added Net: Name=NetC168_2
+Added Pin To Net: NetName=NetC169_2 Pin=C169-2
+Added Pin To Net: NetName=NetC169_2 Pin=DD32-2
+Added Pin To Net: NetName=NetC169_2 Pin=R110-1
+Added Pin To Net: NetName=NetC169_2 Pin=R114-1
+Added Net: Name=NetC169_2

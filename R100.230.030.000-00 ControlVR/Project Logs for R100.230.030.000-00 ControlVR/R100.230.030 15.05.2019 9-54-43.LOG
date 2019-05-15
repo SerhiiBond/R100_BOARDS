@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=BUZ Pin=VT14-1
+Added Component: Designator=R156(SMD_R_0603)
+Added Pin To Net: NetName=BUZ Pin=R156-1
+Added Pin To Net: NetName=NetR156_2 Pin=R156-2
+Added Pin To Net: NetName=NetR156_2 Pin=VT14-1
+Added Net: Name=NetR156_2
+Added Member To Class: ClassName=10_MeasOutUI Member=Component DD28 SN74AHCT1G08DBV
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R156 100
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

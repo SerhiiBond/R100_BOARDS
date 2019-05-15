@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VER1 Pin=R121-1
+Removed Pin From Net: NetName=VER1 Pin=R123-2
+Removed Pin From Net: NetName=VER2 Pin=R126-1
+Removed Pin From Net: NetName=VER2 Pin=R127-2
+Removed Pin From Net: NetName=TEST_LED1 Pin=VT5-1
+Removed Pin From Net: NetName=TEST_LED2 Pin=VT15-1
+Added Component: Designator=R157(SMD_R_0603)
+Added Component: Designator=R158(SMD_R_0603)
+Added Component: Designator=R159(SMD_R_0603)
+Added Component: Designator=R160(SMD_R_0603)
+Added Pin To Net: NetName=TEST_LED1 Pin=R157-1
+Added Pin To Net: NetName=TEST_LED2 Pin=R158-1
+Added Pin To Net: NetName=VER1 Pin=R159-1
+Added Pin To Net: NetName=VER2 Pin=R160-1
+Added Pin To Net: NetName=NetR121_1 Pin=R121-1
+Added Pin To Net: NetName=NetR121_1 Pin=R123-2
+Added Pin To Net: NetName=NetR121_1 Pin=R159-2
+Added Net: Name=NetR121_1
+Added Pin To Net: NetName=NetR126_1 Pin=R126-1
+Added Pin To Net: NetName=NetR126_1 Pin=R127-2
+Added Pin To Net: NetName=NetR126_1 Pin=R160-2
+Added Net: Name=NetR126_1
+Added Pin To Net: NetName=NetR157_2 Pin=R157-2
+Added Pin To Net: NetName=NetR157_2 Pin=VT5-1
+Added Net: Name=NetR157_2
+Added Pin To Net: NetName=NetR158_2 Pin=R158-2
+Added Pin To Net: NetName=NetR158_2 Pin=VT15-1
+Added Net: Name=NetR158_2
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R157 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R158 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R159 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R160 100
+Added Room: Name=13_AdditionalFunction

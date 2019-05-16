@@ -10,3 +10,5 @@ ProjectPath=R100.230.050.000-00 Filtr2\R100.230.050.000-00 Filtr2.PrjPcb
 ProjectPath=R100.230.030.000-00 ControlVR\R100.230.030.000-00 ControlVR.PrjPcb
 [Project5]
 ProjectPath=..\R100_BOARDS_training\ControlBoard_v1\ControlBoard _v1.PrjPcb
+[Project6]
+ProjectPath=..\R100_BOARDS_training\MeasOutUIBoard_v1\MeasOutUIBoard_v1.PrjPcb

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SOFT_RES Pin=DD7-2
+Removed Pin From Net: NetName=SOFT_RES Pin=R24-1
+Added Component: Designator=R161(SMD_R_0603)
+Added Pin To Net: NetName=SOFT_RES Pin=R161-2
+Added Pin To Net: NetName=NetDD7_2 Pin=DD7-2
+Added Pin To Net: NetName=NetDD7_2 Pin=R24-1
+Added Pin To Net: NetName=NetDD7_2 Pin=R161-1
+Added Net: Name=NetDD7_2
+Added Member To Class: ClassName=04_Debugging Member=Component R161 100

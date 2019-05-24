@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [R100.230.040.000-00 Filtr1.PrjPcb]
+   Generated File[R100.230.040.001-00 Filtr1.TXT]
+   Generated File[R100.230.040.001-00 Filtr1.LDP]
+   Generated File[R100.230.040.001-00 Filtr1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:10:08 On 24.05.2019

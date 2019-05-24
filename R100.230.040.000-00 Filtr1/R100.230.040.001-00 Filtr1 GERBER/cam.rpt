@@ -1,0 +1,19 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: D:\!_Works\!_R100\R100.000.000.000 (ÊÂÍ)\R100_BOARDS\R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1 GERBER\cam.drl
+Format: 2.4
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0197		528
+ 2 		0.0394		2
+ 3 		0.0472		8
+ 4 		0.0512		4
+ 5 		0.0591		10
+ 6 		0.1969		4
+ 7 		0.3150		2
+ 8 		0.3937		16

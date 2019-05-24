@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\!_Works\!_R100\R100.000.000.000 (ÊÂÍ)\R100_BOARDS\R100.230.010.000-00 Invertor\R100.230.010.000-00 Invertor.PcbDoc
 Date     : 24.05.2019
-Time     : 11:40:50
+Time     : 15:39:56
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) ((ObjectKind = 'Pad') And (Component = 'R10') And (Name = 'R10-2')),(InNet('VOUT-'))
 Rule Violations :0
@@ -53,7 +53,7 @@ Rule Violations :0
 Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6.35mm) (All)
+Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=6.35mm) (All)
 Rule Violations :0
 
 Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)

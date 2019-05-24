@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: R100.230.010.000-00 Invertor.PcbDoc   24.05.2019  11:49:15
+NCDrill File Report For: R100.230.010.000-00 Invertor.PcbDoc   24.05.2019  14:49:01
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -7,8 +7,8 @@ ASCII RoundHoles File : R100.230.010.000-00 Invertor.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      20mil (0.5mm)                                             Round             1255      PTH        136.49inch (3466.79mm)
-T2      28mil (0.701mm)                                           Round             53        PTH        20.54inch (521.66mm)
+T1      20mil (0.5mm)                                             Round             1255      PTH        136.97inch (3478.95mm)
+T2      28mil (0.701mm)                                           Round             53        PTH        19.95inch (506.66mm)
 T3      32mil (0.8mm)                                             Round             22        PTH        12.94inch (328.64mm)
 T4      47mil (1.199mm)                                           Round             4         PTH        11.01inch (279.55mm)
 T5      59mil (1.501mm)                                           Round             23        PTH        24.50inch (622.22mm)

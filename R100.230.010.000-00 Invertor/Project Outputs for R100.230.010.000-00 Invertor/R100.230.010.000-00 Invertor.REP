@@ -59,13 +59,14 @@ Generating : Bottom
 
 
 Used DCodes :
-    D18
-    D19
-    D20
+    D15
+    D16
+    D17
     D26
     D27
     D28
     D29
+    D30
     D31
     D32
     D33
@@ -77,7 +78,6 @@ Used DCodes :
     D39
     D40
     D41
-    D42
     D43
     D44
     D45
@@ -179,11 +179,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D71
-    D81
-    D82
-    D83
+    D72
+    D78
+    D79
+    D80
     D89
+    D90
     D91
     D92
     D93
@@ -195,7 +196,6 @@ Used DCodes :
     D99
     D100
     D101
-    D102
     D103
     D104
     D105
@@ -225,8 +225,8 @@ Used DCodes :
     D60
     D62
     D63
-    D65
-    D67
+    D64
+    D66
     D68
 *************************************************************
 

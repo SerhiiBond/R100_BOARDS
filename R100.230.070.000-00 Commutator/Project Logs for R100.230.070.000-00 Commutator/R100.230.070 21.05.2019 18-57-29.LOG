@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VOUT- Pin=VD1-2
+Added Pin To Net: NetName=NetR2_1 Pin=VD1-2
+Added Pin To Net: NetName=GND Pin=X5-2
+Added Room: Name=Commutator

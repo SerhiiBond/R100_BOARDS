@@ -9,8 +9,8 @@ ProjectPath=R100.230.050.000-00 Filtr2\R100.230.050.000-00 Filtr2.PrjPcb
 [Project4]
 ProjectPath=R100.230.060.000-00 Filtr3\R100.230.060.000-00 Filtr3.PrjPcb
 [Project5]
-ProjectPath=R100.230.030.000-00 ControlVR\R100.230.030.000-00 ControlVR.PrjPcb
+ProjectPath=R100.230.070.000-00 Commutator\R100.230.070.000-00 Commutator.PrjPcb
 [Project6]
-ProjectPath=..\R100_BOARDS_training\ControlBoard_v1\ControlBoard _v1.PrjPcb
+ProjectPath=R100.230.030.000-00 ControlVR\R100.230.030.000-00 ControlVR.PrjPcb
 [Project7]
-ProjectPath=..\R100_BOARDS_training\MeasOutUIBoard_v1\MeasOutUIBoard_v1.PrjPcb
+ProjectPath=R100.230.080.000-00 MeasOutUI\R100.230.080.000-00 MeasOutUI.PrjPcb

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=X3-3
+Removed Pin From Net: NetName=NetR2_1 Pin=X3-4
+Removed Pin From Net: NetName=GND Pin=X5-2
+Change Component Footprint: Designator=X3 Old Footprint=63849-1x2 New Footprint=63849-1+insulator(154719-1)
+Change Component Comment : Designator=X3 Old Comment=926522-2 New Comment=63849-1
+Added Component: Designator=X7(63849-1+insulator(154719-1))
+Added Pin To Net: NetName=NetR2_1 Pin=X7-1
+Added Pin To Net: NetName=NetR2_1 Pin=X7-2
+Added Member To Class: ClassName=Commutator Member=Component K1 Value
+Added Member To Class: ClassName=Commutator Member=Component X7 63849-1
+Added Room: Name=Commutator

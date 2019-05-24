@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\!_Works\!_R100\R100.000.000.000 (ÊÂÍ)\R100_BOARDS\R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.PcbDoc
-Date     : 16.04.2019
-Time     : 10:46:05
+Date     : 21.05.2019
+Time     : 10:01:54
 
 Processing Rule : Clearance Constraint (Gap=2mm) (InNet('VOUT+_4') or InNet('VOUT-_4')),(InNet('-VIN_200') or InNet('+VIN_200'))
 Rule Violations :0

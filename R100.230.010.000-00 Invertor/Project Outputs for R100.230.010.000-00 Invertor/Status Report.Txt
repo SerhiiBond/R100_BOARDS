@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [R100.230.010.000-00 Invertor.PrjPcb]
-   Generated File[R100.230.010.000-00 Invertor.TXT]
-   Generated File[R100.230.010.000-00 Invertor.LDP]
-   Generated File[R100.230.010.000-00 Invertor.DRR]
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [R100.230.010.001-00 Invertor.PcbDoc]
+   Generated File[R100.230.010.001-00 Invertor.DWG]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:49:01 On 24.05.2019
+Finished Output Generation At 19:25:04 On 28.05.2019

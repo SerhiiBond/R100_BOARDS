@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: R100.230.030.001-00 ControlVR.PcbDoc   28.05.2019  16:34:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : R100.230.030.001-00 ControlVR.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             758       PTH        3391.46mm (133.52inch)
+T2      0.7mm (28mil)                                             Round             51        PTH        594.61mm (23.41inch)
+T3      0.8mm (31mil)                                             Round             113       PTH        919.98mm (36.22inch)
+T4      1mm (39mil)                                               Round             18        PTH        191.37mm (7.53inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T6      1.3mm (51mil)                                             Round             24        PTH        160.50mm (6.32inch)
+T7      1.5mm (59mil)                                             Round             9         PTH        235.35mm (9.27inch)
+T8      1.8mm (71mil)                                             Round             9         PTH        55.00mm (2.17inch)
+T9      4mm (157mil)                                              Round             6         PTH        511.13mm (20.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              991
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -140,8 +140,149 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKFYLDLS
 
+[Document7]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\R100.230.060.001-00 Filtr3.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Design Rule Check - R100.230.060.html
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\BOM\Bill of Materials-R100.230.060.000-00 Filtr3.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\AutoCAD PCB\R100.230.060.001-00 Filtr3.DWG
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\ExportSTEP\R100.230.060.001-00 Filtr3.step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for R100.230.060.000-00 Filtr3\Gerber\R100.230.060.001-00 Filtr3.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -439,7 +580,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon LBP6310
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing

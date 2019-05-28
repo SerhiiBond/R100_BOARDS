@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\!_Works\!_R100\R100.000.000.000 (ÊÂÍ)\R100_BOARDS\R100.230.030.000-00 ControlVR\R100.230.030.001-00 ControlVR.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

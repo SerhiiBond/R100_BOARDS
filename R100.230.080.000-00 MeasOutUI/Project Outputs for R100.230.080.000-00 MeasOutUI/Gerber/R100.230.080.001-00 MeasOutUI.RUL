@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\!_Works\!_R100\R100.000.000.000 (ÊÂÍ)\R100_BOARDS\R100.230.080.000-00 MeasOutUI\R100.230.080.001-00 MeasOutUI.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=DA1_pad|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=DA4_pad|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=DA3_pad|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00

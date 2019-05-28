@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [R100.230.040.001-00 Filtr1.PcbDoc]
+   Generated File[R100.230.040.001-00 Filtr1.GTL]
+   Generated File[R100.230.040.001-00 Filtr1.GBL]
+   Generated File[R100.230.040.001-00 Filtr1.GTO]
+   Generated File[R100.230.040.001-00 Filtr1.GTS]
+   Generated File[R100.230.040.001-00 Filtr1.GBS]
+   Generated File[R100.230.040.001-00 Filtr1.GM1]
+   Generated File[R100.230.040.001-00 Filtr1.RUL]
+   Generated File[R100.230.040.001-00 Filtr1.EXTREP]
+   Generated File[R100.230.040.001-00 Filtr1.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 11:15:16 On 28.05.2019

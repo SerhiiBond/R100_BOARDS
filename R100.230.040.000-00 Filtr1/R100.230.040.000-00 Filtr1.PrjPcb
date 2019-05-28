@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for R100.230.040.000-00 Filtr1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -73,23 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YKFYLDLS
 
 [Document3]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\SourceBoard_v1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\..\..\..\AD_library\Libraries(Sbond)\mainLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXJNHHQN
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\AD_library\Libraries(Sbond)\mainLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNLJXYXM
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\AD_library\Libraries(Sbond)\mainRCLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAQBUOAH
 
-[Document7]
+[Document6]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,24 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
-DocumentPath=R100.230.040.001-00 Filtr1 GERBER\R100.230.040.001-00 Filtr1.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
+[Document9]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,8 +191,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Design Rule Check - R100.230.040.html
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\BOM\Bill of Materials-Filtr1.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -234,106 +217,158 @@ DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for Sourc
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.DRR
+DocumentPath=Project Outputs for Free Documents\NC Drill\R100.230.040.001-00 Filtr1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.EXTREP
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GBL
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\AutoCAD PCB\R100.230.040.001-00 Filtr1.DWG
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GBS
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GM1
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GTL
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GTO
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.GTS
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.LDP
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.REP
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.RUL
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\R100.230.040.001-00 Filtr1.TXT
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.DRR
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.EXTREP
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBL
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBO
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBS
+DocumentPath=Project Outputs for Free Documents\NC Drill\R100.230.040.001-00 Filtr1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GM1
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTO
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTS
+DocumentPath=Project Outputs for Free Documents\Gerber\R100.230.040.001-00 Filtr1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.LDP
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.REP
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\ExportSTEP\R100.230.040.001-00 Filtr1.step
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.RUL
+DocumentPath=Project Outputs for Free Documents\NC Drill\R100.230.040.001-00 Filtr1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=Project Outputs for R100.230.040.000-00 Filtr1\Gerber\R100.230.040.001-00 Filtr1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
 DocumentPath=..\..\R100_BOARDS_training\SourceBoard_v1\Project Outputs for SourceBoard_v1\SourceBoard_v1.TXT
 DItemRevisionGUID=
 
@@ -347,7 +382,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for R100.230.040.000-00 Filtr1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [R100.230.070.001-00 Commutator.PcbDoc]
+   Generated File[R100.230.070.001-00 Commutator.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:28:06 On 28.05.2019

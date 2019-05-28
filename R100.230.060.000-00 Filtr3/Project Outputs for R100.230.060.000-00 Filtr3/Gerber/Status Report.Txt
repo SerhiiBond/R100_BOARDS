@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [R100.230.060.001-00 Filtr3.PcbDoc]
+   Generated File[R100.230.060.001-00 Filtr3.TXT]
+   Generated File[R100.230.060.001-00 Filtr3.LDP]
+   Generated File[R100.230.060.001-00 Filtr3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:36:57 On 28.05.2019

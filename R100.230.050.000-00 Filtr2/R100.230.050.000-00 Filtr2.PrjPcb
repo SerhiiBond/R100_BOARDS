@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for R100.230.050.000-00 Filtr2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=R100.230.050.001-00 Filtr2 GERBER\R100.230.050.001-00 Filtr2.PCBDwf
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,55 +226,63 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Design Rule Check - R100.230.050.html
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\BOM\Bill of Materials-R100.230.050.000-00 Filtr2.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.DRR
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.EXTREP
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\AutoCAD PCB\R100.230.050.001-00 Filtr2.DWG
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GBL
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GBS
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GM1
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GTL
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GTO
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.GTS
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.LDP
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.REP
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.RUL
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\R100.230.050.001-00 Filtr2.TXT
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\ExportSTEP\R100.230.050.001-00 Filtr2.step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -287,7 +295,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for R100.230.050.000-00 Filtr2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

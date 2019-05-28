@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YAQBUOAH
 
 [Document5]
-DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\MeasOutUIBoard_v1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=R100.230.080.001-00 MeasOutUI.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,63 +123,144 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKFYLDLS
 
+[Document6]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Project Outputs for R100.230.080.000-00 MeasOutUI\R100.230.080.001-00 MeasOutUI.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\Design Rule Check - MeasOutUIBoard_v1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for R100.230.080.000-00 MeasOutUI\Design Rule Check - R100.230.080.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=..\..\R100_BOARDS_training\MeasOutUIBoard_v1\Project Outputs for MeasOutUIBoard_v1\MeasOutUIBoard_v1.TXT
 DItemRevisionGUID=
 
@@ -497,7 +561,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon LBP6310
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing

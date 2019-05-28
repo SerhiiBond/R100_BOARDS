@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [R100.230.030.001-00 ControlVR.PcbDoc]
+   Generated File[R100.230.030.001-00 ControlVR.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:30:12 On 28.05.2019

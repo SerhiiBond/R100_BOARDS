@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [R100.230.030.001-00 ControlVR.PcbDoc]
+   Generated File[R100.230.030.001-00 ControlVR.TXT]
+   Generated File[R100.230.030.001-00 ControlVR.LDP]
+   Generated File[R100.230.030.001-00 ControlVR.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:34:29 On 28.05.2019

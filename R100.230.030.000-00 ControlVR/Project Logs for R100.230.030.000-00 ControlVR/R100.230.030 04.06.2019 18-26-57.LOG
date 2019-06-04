@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=B_485 Pin=X15-4
+Removed Pin From Net: NetName=A_485 Pin=X15-6
+Removed Pin From Net: NetName=B_485 Pin=X16-4
+Removed Pin From Net: NetName=A_485 Pin=X16-6
+Added Pin To Net: NetName=5V_485 Pin=X15-3
+Added Pin To Net: NetName=GND_485 Pin=X15-4
+Added Pin To Net: NetName=A_485 Pin=X15-5
+Added Pin To Net: NetName=B_485 Pin=X15-6
+Added Pin To Net: NetName=SYNC_PWM_A Pin=X15-7
+Added Pin To Net: NetName=SYNC_PWM_B Pin=X15-8
+Added Pin To Net: NetName=SYNC_STEP_A Pin=X15-9
+Added Pin To Net: NetName=SYNC_STEP_B Pin=X15-10
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=X15-11
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=X15-12
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=X15-13
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=X15-14
+Added Pin To Net: NetName=EXT_OFF_B Pin=X15-15
+Added Pin To Net: NetName=EXT_OFF_B Pin=X15-16
+Added Pin To Net: NetName=5V_485 Pin=X16-3
+Added Pin To Net: NetName=GND_485 Pin=X16-4
+Added Pin To Net: NetName=A_485 Pin=X16-5
+Added Pin To Net: NetName=B_485 Pin=X16-6
+Added Pin To Net: NetName=SYNC_PWM_A Pin=X16-7
+Added Pin To Net: NetName=SYNC_PWM_B Pin=X16-8
+Added Pin To Net: NetName=SYNC_STEP_A Pin=X16-9
+Added Pin To Net: NetName=SYNC_STEP_B Pin=X16-10
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=X16-11
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=X16-12
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=X16-13
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=X16-14
+Added Pin To Net: NetName=EXT_OFF_A Pin=X16-15
+Added Pin To Net: NetName=EXT_OFF_B Pin=X16-16
+Added Pin To Net: NetName=GND_SHIELD Pin=X15-18
+Added Pin To Net: NetName=GND_SHIELD Pin=X16-18
+Added Net: Name=GND_SHIELD
+Added Member To Class: ClassName=03_PowerSupply Member=Component DA4 IRM-20-12
+Added Member To Class: ClassName=04_Debugging Member=Component DD7 SN74AHCT1G00DBV
+Added Member To Class: ClassName=05_FOC_RS_Interface Member=Component DD9 SN74AHCT1G08DBV
+Added Member To Class: ClassName=08_Parallel_operation Member=Component DD24 ISO1412DW
+Added Member To Class: ClassName=04_Debugging Member=Component VD7 MBR0540T1G
+Added Member To Class: ClassName=03_PowerSupply Member=Component X4 B04P-NV (with 2-no)

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=FREE_BIT_IN_A Pin=X15-11
+Removed Pin From Net: NetName=FREE_BIT_IN_B Pin=X15-12
+Removed Pin From Net: NetName=FREE_BIT_OUT_Z Pin=X15-13
+Removed Pin From Net: NetName=FREE_BIT_OUT_Y Pin=X15-14
+Removed Pin From Net: NetName=FREE_BIT_IN_A Pin=X16-11
+Removed Pin From Net: NetName=FREE_BIT_IN_B Pin=X16-12
+Removed Pin From Net: NetName=FREE_BIT_OUT_Z Pin=X16-13
+Removed Pin From Net: NetName=FREE_BIT_OUT_Y Pin=X16-14
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=X15-11
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=X15-12
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=X15-13
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=X15-14
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=X16-11
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=X16-12
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=X16-13
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=X16-14

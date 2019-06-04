@@ -1,0 +1,315 @@
+Removed Pin From Net: NetName=GND_485 Pin=C102-1
+Removed Pin From Net: NetName=5V_485 Pin=C102-2
+Removed Pin From Net: NetName=ALARM_EXT Pin=C103-2
+Removed Pin From Net: NetName=GND_485 Pin=C104-1
+Removed Pin From Net: NetName=GND_C Pin=C107-1
+Removed Pin From Net: NetName=EXT_OFF_1 Pin=C107-2
+Removed Pin From Net: NetName=GND_C Pin=C110-1
+Removed Pin From Net: NetName=ALARM_OUT Pin=C110-2
+Removed Pin From Net: NetName=GND_485 Pin=C111-1
+Removed Pin From Net: NetName=GND_485 Pin=C113-1
+Removed Pin From Net: NetName=GND_485 Pin=C114-1
+Removed Pin From Net: NetName=GND_485 Pin=C115-1
+Removed Pin From Net: NetName=5V_485 Pin=C115-2
+Removed Pin From Net: NetName=GND_485 Pin=C116-1
+Removed Pin From Net: NetName=EXT_OFF_IN Pin=C116-2
+Removed Pin From Net: NetName=GND_485 Pin=C117-1
+Removed Pin From Net: NetName=ALARM_EXT Pin=C117-2
+Removed Pin From Net: NetName=NetC97_2 Pin=DD21-4
+Removed Pin From Net: NetName=NetC97_2 Pin=DD21-5
+Removed Pin From Net: NetName=NetC98_2 Pin=DD21-6
+Removed Pin From Net: NetName=+3V3 Pin=DD21-7
+Removed Pin From Net: NetName=5V_485 Pin=DD22-1
+Removed Pin From Net: NetName=NetC114_2 Pin=DD22-5
+Removed Pin From Net: NetName=GND_485 Pin=DD22-8
+Removed Pin From Net: NetName=GND_C Pin=DD22-9
+Removed Pin From Net: NetName=ALARM_OUT Pin=DD22-10
+Removed Pin From Net: NetName=NetC109_2 Pin=DD22-11
+Removed Pin From Net: NetName=+3V3 Pin=DD22-16
+Removed Pin From Net: NetName=ALARM_EXT Pin=DD23-1
+Removed Pin From Net: NetName=GND_485 Pin=DD23-3
+Removed Pin From Net: NetName=ALARM_OUT_2 Pin=DD23-4
+Removed Pin From Net: NetName=5V_485 Pin=DD23-5
+Removed Pin From Net: NetName=EXT_OFF_IN Pin=DD24-1
+Removed Pin From Net: NetName=ALARM_EXT Pin=DD24-2
+Removed Pin From Net: NetName=GND_485 Pin=DD24-3
+Removed Pin From Net: NetName=5V_485 Pin=DD24-5
+Removed Pin From Net: NetName=B_485 Pin=L11-2
+Removed Pin From Net: NetName=A_485 Pin=L11-3
+Removed Pin From Net: NetName=FREE_BIT_OUT_1 Pin=R75-2
+Removed Pin From Net: NetName=NetDD21_3 Pin=R76-2
+Removed Pin From Net: NetName=5V_485 Pin=R78-1
+Removed Pin From Net: NetName=ALARM_EXT Pin=R78-2
+Removed Pin From Net: NetName=GND_485 Pin=R80-1
+Removed Pin From Net: NetName=GND_485 Pin=R82-1
+Removed Pin From Net: NetName=NetC114_2 Pin=R82-2
+Removed Pin From Net: NetName=GND_485 Pin=R83-1
+Removed Pin From Net: NetName=EXT_OFF_IN Pin=R83-2
+Removed Pin From Net: NetName=GND_485 Pin=R84-1
+Removed Pin From Net: NetName=ALARM_EXT Pin=R84-2
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=R152-2
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=R153-2
+Removed Pin From Net: NetName=NetC114_2 Pin=R155-1
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=R155-2
+Removed Pin From Net: NetName=5V_485 Pin=X15-1A
+Removed Pin From Net: NetName=GND_485 Pin=X15-1B
+Removed Pin From Net: NetName=B_485 Pin=X15-2B
+Removed Pin From Net: NetName=ALARM_EXT Pin=X15-3A
+Removed Pin From Net: NetName=A_485 Pin=X15-3B
+Removed Pin From Net: NetName=EXT_OFF_IN Pin=X15-4A
+Removed Pin From Net: NetName=ALARM_OUT_2 Pin=X15-4B
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X15-5A
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=X15-5B
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X15-6A
+Removed Pin From Net: NetName=FREE_BIT_OUT_1 Pin=X15-6B
+Removed Pin From Net: NetName=5V_485 Pin=X16-1A
+Removed Pin From Net: NetName=GND_485 Pin=X16-1B
+Removed Pin From Net: NetName=B_485 Pin=X16-2B
+Removed Pin From Net: NetName=ALARM_EXT Pin=X16-3A
+Removed Pin From Net: NetName=A_485 Pin=X16-3B
+Removed Pin From Net: NetName=EXT_OFF_IN Pin=X16-4A
+Removed Pin From Net: NetName=ALARM_OUT_2 Pin=X16-4B
+Removed Pin From Net: NetName=SYNC_PWM_1 Pin=X16-5A
+Removed Pin From Net: NetName=FREE_BIT_IN_1 Pin=X16-5B
+Removed Pin From Net: NetName=SYNC_STEP_1 Pin=X16-6A
+Removed Pin From Net: NetName=FREE_BIT_OUT_1 Pin=X16-6B
+Removed Member From Class: ClassName=08_Parallel_operation Member=C115
+Removed Member From Class: ClassName=08_Parallel_operation Member=C116
+Removed Member From Class: ClassName=08_Parallel_operation Member=C117
+Removed Member From Class: ClassName=08_Parallel_operation Member=L11
+Change Component Footprint: Designator=X15 Old Footprint=53313-1265 New Footprint=918520x324
+Change Component Footprint: Designator=X16 Old Footprint=53313-1265 New Footprint=918520x324
+Change Component Footprint: Designator=DD24 Old Footprint=SOT-23(DBV) New Footprint=SOIC127P1030X265-16M
+Change Component Comment : Designator=R84 Old Comment=10K New Comment=619
+Change Component Comment : Designator=R77 Old Comment=100 New Comment=10K
+Change Component Comment : Designator=R152 Old Comment=100 New Comment=10K
+Change Component Comment : Designator=R153 Old Comment=100 New Comment=10K
+Change Component Comment : Designator=R155 Old Comment=100 New Comment=10K
+Change Component Comment : Designator=R75 Old Comment=100 New Comment=619
+Change Component Comment : Designator=R154 Old Comment=100 New Comment=619
+Change Component Comment : Designator=C103 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=C104 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=C110 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=C111 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=C112 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=C113 Old Comment=100p New Comment=0.1u
+Change Component Comment : Designator=DD21 Old Comment=ISO1176DW New Comment=ISO1410DW
+Change Component Comment : Designator=DD22 Old Comment=ISO7762DW New Comment=ISO1410DW
+Change Component Comment : Designator=X15 Old Comment=MI II (53313-1265) New Comment=IDC20
+Change Component Comment : Designator=X16 Old Comment=MI II (53313-1265) New Comment=IDC20
+Change Component Comment : Designator=DD24 Old Comment=SN74AHCT1G08DBV New Comment=ISO1412DW
+Change Component Comment : Designator=DD23 Old Comment=SN74AHCT1G08DBV New Comment=SN74AHCT1G00DBV
+Change Component Designator: OldDesignator=R76 NewDesignator=R168
+Added Component: Designator=DD33(SOIC127P1030X265-16M)
+Added Component: Designator=DD34(SOIC127P1030X265-16M)
+Added Component: Designator=R76(SMD_R_0603)
+Added Component: Designator=R162(SMD_R_0603)
+Added Component: Designator=R163(SMD_R_0603)
+Added Component: Designator=R164(SMD_R_0603)
+Added Component: Designator=R165(SMD_R_0603)
+Added Component: Designator=R166(SMD_R_0603)
+Added Component: Designator=R167(SMD_R_0603)
+Added Component: Designator=VD28(SOT23-3)
+Added Component: Designator=VD29(SOT23-3)
+Added Component: Designator=VD30(SOT23-3)
+Added Component: Designator=VD31(SOT23-3)
+Added Component: Designator=VD32(SOT23-3)
+Added Pin To Net: NetName=+3V3 Pin=C102-1
+Added Pin To Net: NetName=GND_C Pin=C102-2
+Added Pin To Net: NetName=5V_485 Pin=C103-2
+Added Pin To Net: NetName=GND_C Pin=C104-1
+Added Pin To Net: NetName=+3V3 Pin=C104-2
+Added Pin To Net: NetName=EXT_OFF_1 Pin=C107-1
+Added Pin To Net: NetName=GND_C Pin=C107-2
+Added Pin To Net: NetName=GND_485 Pin=C110-1
+Added Pin To Net: NetName=5V_485 Pin=C110-2
+Added Pin To Net: NetName=GND_C Pin=C111-1
+Added Pin To Net: NetName=+3V3 Pin=C111-2
+Added Pin To Net: NetName=5V_485 Pin=C112-2
+Added Pin To Net: NetName=GND_C Pin=C113-1
+Added Pin To Net: NetName=+3V3 Pin=C113-2
+Added Pin To Net: NetName=GND_C Pin=C114-1
+Added Pin To Net: NetName=GND_C Pin=DD21-4
+Added Pin To Net: NetName=GND_C Pin=DD21-5
+Added Pin To Net: NetName=+3V3 Pin=DD22-1
+Added Pin To Net: NetName=GND_C Pin=DD22-2
+Added Pin To Net: NetName=GND_C Pin=DD22-4
+Added Pin To Net: NetName=GND_C Pin=DD22-5
+Added Pin To Net: NetName=GND_C Pin=DD22-8
+Added Pin To Net: NetName=GND_485 Pin=DD22-9
+Added Pin To Net: NetName=GND_485 Pin=DD22-15
+Added Pin To Net: NetName=5V_485 Pin=DD22-16
+Added Pin To Net: NetName=NetC114_2 Pin=DD23-1
+Added Pin To Net: NetName=NetC114_2 Pin=DD23-2
+Added Pin To Net: NetName=GND_C Pin=DD23-3
+Added Pin To Net: NetName=+3V3 Pin=DD23-5
+Added Pin To Net: NetName=+3V3 Pin=DD24-1
+Added Pin To Net: NetName=GND_C Pin=DD24-2
+Added Pin To Net: NetName=GND_C Pin=DD24-4
+Added Pin To Net: NetName=+3V3 Pin=DD24-5
+Added Pin To Net: NetName=NetC109_2 Pin=DD24-6
+Added Pin To Net: NetName=GND_C Pin=DD24-8
+Added Pin To Net: NetName=GND_485 Pin=DD24-9
+Added Pin To Net: NetName=GND_485 Pin=DD24-15
+Added Pin To Net: NetName=5V_485 Pin=DD24-16
+Added Pin To Net: NetName=+3V3 Pin=DD33-1
+Added Pin To Net: NetName=GND_C Pin=DD33-2
+Added Pin To Net: NetName=NetC114_2 Pin=DD33-6
+Added Pin To Net: NetName=GND_C Pin=DD33-8
+Added Pin To Net: NetName=GND_485 Pin=DD33-9
+Added Pin To Net: NetName=GND_485 Pin=DD33-15
+Added Pin To Net: NetName=5V_485 Pin=DD33-16
+Added Pin To Net: NetName=+3V3 Pin=DD34-1
+Added Pin To Net: NetName=GND_C Pin=DD34-2
+Added Pin To Net: NetName=NetC97_2 Pin=DD34-4
+Added Pin To Net: NetName=NetC97_2 Pin=DD34-5
+Added Pin To Net: NetName=NetC98_2 Pin=DD34-6
+Added Pin To Net: NetName=+3V3 Pin=DD34-7
+Added Pin To Net: NetName=GND_C Pin=DD34-8
+Added Pin To Net: NetName=GND_485 Pin=DD34-9
+Added Pin To Net: NetName=A_485 Pin=DD34-12
+Added Pin To Net: NetName=B_485 Pin=DD34-13
+Added Pin To Net: NetName=GND_485 Pin=DD34-15
+Added Pin To Net: NetName=5V_485 Pin=DD34-16
+Added Pin To Net: NetName=ALARM_OUT Pin=R76-1
+Added Pin To Net: NetName=NetC114_2 Pin=R76-2
+Added Pin To Net: NetName=5V_485 Pin=R77-2
+Added Pin To Net: NetName=5V_485 Pin=R78-2
+Added Pin To Net: NetName=B_485 Pin=R79-2
+Added Pin To Net: NetName=5V_485 Pin=R80-1
+Added Pin To Net: NetName=A_485 Pin=R80-2
+Added Pin To Net: NetName=5V_485 Pin=R82-1
+Added Pin To Net: NetName=GND_485 Pin=R83-2
+Added Pin To Net: NetName=A_485 Pin=R84-1
+Added Pin To Net: NetName=B_485 Pin=R84-2
+Added Pin To Net: NetName=NetDD21_3 Pin=R138-2
+Added Pin To Net: NetName=GND_485 Pin=R152-2
+Added Pin To Net: NetName=5V_485 Pin=R153-1
+Added Pin To Net: NetName=GND_485 Pin=R155-2
+Added Pin To Net: NetName=GND_485 Pin=R164-1
+Added Pin To Net: NetName=5V_485 Pin=R165-1
+Added Pin To Net: NetName=+3V3 Pin=R166-1
+Added Pin To Net: NetName=NetC114_2 Pin=R166-2
+Added Pin To Net: NetName=B_485 Pin=VD27-1
+Added Pin To Net: NetName=A_485 Pin=VD27-2
+Added Pin To Net: NetName=GND_485 Pin=VD28-3
+Added Pin To Net: NetName=GND_485 Pin=VD29-3
+Added Pin To Net: NetName=GND_485 Pin=VD30-3
+Added Pin To Net: NetName=GND_485 Pin=VD31-3
+Added Pin To Net: NetName=GND_485 Pin=VD32-3
+Added Pin To Net: NetName=5V_485 Pin=X15-1
+Added Pin To Net: NetName=GND_485 Pin=X15-2
+Added Pin To Net: NetName=B_485 Pin=X15-4
+Added Pin To Net: NetName=ALARM_EXT Pin=X15-5
+Added Pin To Net: NetName=A_485 Pin=X15-6
+Added Pin To Net: NetName=EXT_OFF_IN Pin=X15-7
+Added Pin To Net: NetName=ALARM_OUT_2 Pin=X15-8
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X15-9
+Added Pin To Net: NetName=FREE_BIT_IN_1 Pin=X15-10
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X15-11
+Added Pin To Net: NetName=FREE_BIT_OUT_1 Pin=X15-12
+Added Pin To Net: NetName=5V_485 Pin=X16-1
+Added Pin To Net: NetName=GND_485 Pin=X16-2
+Added Pin To Net: NetName=B_485 Pin=X16-4
+Added Pin To Net: NetName=ALARM_EXT Pin=X16-5
+Added Pin To Net: NetName=A_485 Pin=X16-6
+Added Pin To Net: NetName=EXT_OFF_IN Pin=X16-7
+Added Pin To Net: NetName=ALARM_OUT_2 Pin=X16-8
+Added Pin To Net: NetName=SYNC_PWM_1 Pin=X16-9
+Added Pin To Net: NetName=FREE_BIT_IN_1 Pin=X16-10
+Added Pin To Net: NetName=SYNC_STEP_1 Pin=X16-11
+Added Pin To Net: NetName=FREE_BIT_OUT_1 Pin=X16-12
+Added Pin To Net: NetName=EXT_OFF_A Pin=DD33-12
+Added Pin To Net: NetName=EXT_OFF_A Pin=R78-1
+Added Pin To Net: NetName=EXT_OFF_A Pin=R167-1
+Added Pin To Net: NetName=EXT_OFF_A Pin=VD32-2
+Added Net: Name=EXT_OFF_A
+Added Pin To Net: NetName=EXT_OFF_B Pin=DD33-13
+Added Pin To Net: NetName=EXT_OFF_B Pin=R83-1
+Added Pin To Net: NetName=EXT_OFF_B Pin=R167-2
+Added Pin To Net: NetName=EXT_OFF_B Pin=VD32-1
+Added Net: Name=EXT_OFF_B
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=DD24-14
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=R75-1
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=R77-1
+Added Pin To Net: NetName=FREE_BIT_IN_A Pin=VD30-1
+Added Net: Name=FREE_BIT_IN_A
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=DD24-13
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=R75-2
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=R155-1
+Added Pin To Net: NetName=FREE_BIT_IN_B Pin=VD30-2
+Added Net: Name=FREE_BIT_IN_B
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=DD24-11
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=R163-1
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=R165-2
+Added Pin To Net: NetName=FREE_BIT_OUT_Y Pin=VD31-2
+Added Net: Name=FREE_BIT_OUT_Y
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=DD24-12
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=R163-2
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=R164-2
+Added Pin To Net: NetName=FREE_BIT_OUT_Z Pin=VD31-1
+Added Net: Name=FREE_BIT_OUT_Z
+Added Pin To Net: NetName=NetDD22_3 Pin=DD22-3
+Added Pin To Net: NetName=NetDD22_3 Pin=R139-2
+Added Net: Name=NetDD22_3
+Added Pin To Net: NetName=NetDD23_4 Pin=DD23-4
+Added Pin To Net: NetName=NetDD23_4 Pin=DD33-4
+Added Pin To Net: NetName=NetDD23_4 Pin=DD33-5
+Added Net: Name=NetDD23_4
+Added Pin To Net: NetName=NetDD24_3 Pin=DD24-3
+Added Pin To Net: NetName=NetDD24_3 Pin=R141-2
+Added Net: Name=NetDD24_3
+Added Pin To Net: NetName=NetDD33_3 Pin=DD33-3
+Added Pin To Net: NetName=NetDD33_3 Pin=R140-2
+Added Net: Name=NetDD33_3
+Added Pin To Net: NetName=NetDD34_3 Pin=DD34-3
+Added Pin To Net: NetName=NetDD34_3 Pin=R168-2
+Added Net: Name=NetDD34_3
+Added Pin To Net: NetName=SYNC_PWM_A Pin=DD21-12
+Added Pin To Net: NetName=SYNC_PWM_A Pin=R82-2
+Added Pin To Net: NetName=SYNC_PWM_A Pin=R162-1
+Added Pin To Net: NetName=SYNC_PWM_A Pin=VD28-2
+Added Net: Name=SYNC_PWM_A
+Added Pin To Net: NetName=SYNC_PWM_B Pin=DD21-13
+Added Pin To Net: NetName=SYNC_PWM_B Pin=R81-1
+Added Pin To Net: NetName=SYNC_PWM_B Pin=R162-2
+Added Pin To Net: NetName=SYNC_PWM_B Pin=VD28-1
+Added Net: Name=SYNC_PWM_B
+Added Pin To Net: NetName=SYNC_STEP_A Pin=DD22-12
+Added Pin To Net: NetName=SYNC_STEP_A Pin=R153-2
+Added Pin To Net: NetName=SYNC_STEP_A Pin=R154-1
+Added Pin To Net: NetName=SYNC_STEP_A Pin=VD29-2
+Added Net: Name=SYNC_STEP_A
+Added Pin To Net: NetName=SYNC_STEP_B Pin=DD22-13
+Added Pin To Net: NetName=SYNC_STEP_B Pin=R152-1
+Added Pin To Net: NetName=SYNC_STEP_B Pin=R154-2
+Added Pin To Net: NetName=SYNC_STEP_B Pin=VD29-1
+Added Net: Name=SYNC_STEP_B
+Added Member To Class: ClassName=02_MCU Member=Component DD2 STM32F767ZI
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD13 74HC08
+Added Member To Class: ClassName=08_Parallel_operation Member=Component DD33 ISO1410DW
+Added Member To Class: ClassName=08_Parallel_operation Member=Component DD34 ISO1410DW
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R162 619
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R163 619
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R164 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R165 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R166 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R167 619
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R168 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component VD28 PSM712
+Added Member To Class: ClassName=08_Parallel_operation Member=Component VD29 PSM712
+Added Member To Class: ClassName=08_Parallel_operation Member=Component VD30 PSM712
+Added Member To Class: ClassName=08_Parallel_operation Member=Component VD31 PSM712
+Added Member To Class: ClassName=08_Parallel_operation Member=Component VD32 PSM712
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

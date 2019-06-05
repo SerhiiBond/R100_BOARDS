@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GREEN Pin=X13-1
+Removed Pin From Net: NetName=YELLOW Pin=X13-2
+Removed Pin From Net: NetName=RED Pin=X13-3
+Removed Pin From Net: NetName=BUZZER Pin=X13-4
+Added Pin To Net: NetName=RED Pin=X13-1
+Added Pin To Net: NetName=BUZZER Pin=X13-2
+Added Pin To Net: NetName=YELLOW Pin=X13-3
+Added Pin To Net: NetName=GREEN Pin=X13-4

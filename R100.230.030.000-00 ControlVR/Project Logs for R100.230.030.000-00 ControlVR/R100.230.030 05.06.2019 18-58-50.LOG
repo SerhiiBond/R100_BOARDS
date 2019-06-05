@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND_C Pin=C109-1
+Removed Pin From Net: NetName=+3V3 Pin=DD24-5
+Change Component Comment : Designator=DD4 Old Comment=SN74AHC1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD31 Old Comment=SN74AHC1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD33 Old Comment=SN74AHC1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD16 Old Comment=SN74AHC1G32DBV New Comment=SN74LVC1G32DBV
+Change Component Comment : Designator=DD7 Old Comment=SN74AHCT1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD15 Old Comment=SN74AHCT1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD26 Old Comment=SN74AHCT1G00DBV New Comment=SN74LVC1G00DBV
+Change Component Comment : Designator=DD8 Old Comment=SN74AHCT1G08DBV New Comment=SN74LVC1G08DBV
+Change Component Comment : Designator=DD9 Old Comment=SN74AHCT1G08DBV New Comment=SN74LVC1G08DBV
+Change Component Comment : Designator=DD11 Old Comment=SN74AHCT1G08DBV New Comment=SN74LVC1G08DBV
+Change Component Comment : Designator=DD14 Old Comment=SN74AHCT1G08DBV New Comment=SN74LVC1G08DBV
+Change Component Comment : Designator=DD17 Old Comment=SN74AHCT1G08DBV New Comment=SN74LVC1G08DBV
+Added Component: Designator=C90(SMD_C_0603)
+Added Component: Designator=R169(SMD_R_0603)
+Added Component: Designator=R170(SMD_R_0603)
+Added Pin To Net: NetName=GND_C Pin=C90-2
+Added Pin To Net: NetName=GND_C Pin=C109-2
+Added Pin To Net: NetName=GND_C Pin=R170-1
+Added Pin To Net: NetName=FREE_BIT_OUT_D Pin=DD2-88
+Added Pin To Net: NetName=FREE_BIT_OUT_D Pin=R169-1
+Added Net: Name=FREE_BIT_OUT_D
+Added Pin To Net: NetName=NetC90_1 Pin=C90-1
+Added Pin To Net: NetName=NetC90_1 Pin=DD24-5
+Added Pin To Net: NetName=NetC90_1 Pin=R169-2
+Added Pin To Net: NetName=NetC90_1 Pin=R170-2
+Added Net: Name=NetC90_1
+Added Pin To Net: NetName=NetC109_1 Pin=C109-1
+Added Pin To Net: NetName=NetC109_1 Pin=DD24-6
+Added Pin To Net: NetName=NetC109_1 Pin=R101-2
+Added Net: Name=NetC109_1
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component C70 0.1u
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component C84 0.1u
+Added Member To Class: ClassName=08_Parallel_operation Member=Component C90 100p
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD13 74HC08
+Added Member To Class: ClassName=11_Fun Member=Component DD19 74HC14PW
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component K3 FTR-B4GA012Z
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R169 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R170 10K
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component VD20 PMLL4148
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

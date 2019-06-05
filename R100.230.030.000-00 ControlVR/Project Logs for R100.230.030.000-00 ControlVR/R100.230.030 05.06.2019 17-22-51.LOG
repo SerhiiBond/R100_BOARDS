@@ -1,0 +1,175 @@
+Removed Pin From Net: NetName=NetC149_1 Pin=DD19-1
+Removed Pin From Net: NetName=NetDD19_2 Pin=DD19-2
+Removed Pin From Net: NetName=NetDD19_3 Pin=DD19-3
+Removed Pin From Net: NetName=NetDD19_4 Pin=DD19-4
+Removed Pin From Net: NetName=NetDD19_3 Pin=DD19-5
+Removed Pin From Net: NetName=NetDD19_6 Pin=DD19-6
+Removed Pin From Net: NetName=NetDD19_8 Pin=DD19-8
+Removed Pin From Net: NetName=NetC153_1 Pin=DD19-9
+Removed Pin From Net: NetName=GND_C Pin=DD19-11
+Removed Pin From Net: NetName=GND_C Pin=DD19-13
+Removed Pin From Net: NetName=NetK2_4 Pin=L9-2
+Removed Pin From Net: NetName=NetK2_3 Pin=L9-3
+Removed Member From Class: ClassName=04_Debugging Member=C49
+Removed Member From Class: ClassName=12_TempSensors Member=C162
+Removed Member From Class: ClassName=13_AdditionalFunction Member=C173
+Removed Member From Class: ClassName=11_Fun Member=DD17
+Removed Member From Class: ClassName=08_Parallel_operation Member=DD28
+Removed Member From Class: ClassName=08_Parallel_operation Member=DD29
+Removed Member From Class: ClassName=09_MeasInUI Member=DD29
+Removed Member From Class: ClassName=11_Fun Member=DD34
+Removed Member From Class: ClassName=08_Parallel_operation Member=R22
+Removed Member From Class: ClassName=10_MeasOutUI Member=R22
+Removed Member From Class: ClassName=11_Fun Member=R22
+Removed Member From Class: ClassName=10_MeasOutUI Member=R23
+Removed Member From Class: ClassName=04_Debugging Member=R35
+Removed Member From Class: ClassName=04_Debugging Member=R36
+Removed Member From Class: ClassName=04_Debugging Member=R38
+Removed Member From Class: ClassName=04_Debugging Member=R39
+Removed Member From Class: ClassName=10_MeasOutUI Member=R46
+Removed Member From Class: ClassName=05_FOC_RS_Interface Member=R49
+Removed Member From Class: ClassName=05_FOC_RS_Interface Member=R50
+Removed Member From Class: ClassName=05_FOC_RS_Interface Member=R60
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R75
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R79
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R80
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R81
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R86
+Removed Member From Class: ClassName=07_EEPR_DISCHAR Member=R86
+Removed Member From Class: ClassName=11_Fun Member=R86
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=R88
+Removed Member From Class: ClassName=09_MeasInUI Member=R91
+Removed Member From Class: ClassName=10_MeasOutUI Member=R91
+Removed Member From Class: ClassName=12_TempSensors Member=R91
+Removed Member From Class: ClassName=13_AdditionalFunction Member=R91
+Removed Member From Class: ClassName=10_MeasOutUI Member=R96
+Removed Member From Class: ClassName=12_TempSensors Member=R96
+Removed Member From Class: ClassName=11_Fun Member=R100
+Removed Member From Class: ClassName=13_AdditionalFunction Member=R103
+Removed Member From Class: ClassName=10_MeasOutUI Member=R106
+Removed Member From Class: ClassName=13_AdditionalFunction Member=R106
+Removed Member From Class: ClassName=13_AdditionalFunction Member=R108
+Removed Member From Class: ClassName=08_Parallel_operation Member=R111
+Removed Member From Class: ClassName=08_Parallel_operation Member=R115
+Removed Member From Class: ClassName=11_Fun Member=R120
+Removed Member From Class: ClassName=12_TempSensors Member=R123
+Removed Member From Class: ClassName=09_MeasInUI Member=R124
+Removed Member From Class: ClassName=12_TempSensors Member=R124
+Removed Member From Class: ClassName=12_TempSensors Member=R125
+Removed Member From Class: ClassName=12_TempSensors Member=R126
+Removed Member From Class: ClassName=08_Parallel_operation Member=R129
+Removed Member From Class: ClassName=09_MeasInUI Member=R129
+Removed Member From Class: ClassName=12_TempSensors Member=R129
+Removed Member From Class: ClassName=08_Parallel_operation Member=R131
+Removed Member From Class: ClassName=08_Parallel_operation Member=R133
+Removed Member From Class: ClassName=08_Parallel_operation Member=R134
+Removed Member From Class: ClassName=08_Parallel_operation Member=R137
+Removed Member From Class: ClassName=08_Parallel_operation Member=R138
+Removed Member From Class: ClassName=08_Parallel_operation Member=R140
+Removed Member From Class: ClassName=13_AdditionalFunction Member=R140
+Removed Member From Class: ClassName=07_EEPR_DISCHAR Member=R143
+Removed Member From Class: ClassName=08_Parallel_operation Member=R143
+Removed Member From Class: ClassName=08_Parallel_operation Member=R145
+Removed Member From Class: ClassName=09_MeasInUI Member=R148
+Removed Member From Class: ClassName=08_Parallel_operation Member=R152
+Removed Member From Class: ClassName=08_Parallel_operation Member=R154
+Removed Member From Class: ClassName=10_MeasOutUI Member=R154
+Removed Member From Class: ClassName=11_Fun Member=R154
+Removed Member From Class: ClassName=10_MeasOutUI Member=R160
+Removed Member From Class: ClassName=08_Parallel_operation Member=R162
+Removed Member From Class: ClassName=06_PowerRele_OnOff Member=VD30
+Removed Member From Class: ClassName=07_EEPR_DISCHAR Member=VD30
+Change Component Designator: OldDesignator=DD32 NewDesignator=DD19
+Added Pin To Net: NetName=NetC149_1 Pin=DD19-1
+Added Pin To Net: NetName=NetDD19_2 Pin=DD19-2
+Added Pin To Net: NetName=NetDD19_3 Pin=DD19-3
+Added Pin To Net: NetName=NetDD19_4 Pin=DD19-4
+Added Pin To Net: NetName=NetDD19_3 Pin=DD19-5
+Added Pin To Net: NetName=NetDD19_6 Pin=DD19-6
+Added Pin To Net: NetName=NetDD19_8 Pin=DD19-8
+Added Pin To Net: NetName=NetC153_1 Pin=DD19-9
+Added Pin To Net: NetName=GND_C Pin=DD19-11
+Added Pin To Net: NetName=GND_C Pin=DD19-13
+Added Pin To Net: NetName=NetK2_3 Pin=L9-2
+Added Pin To Net: NetName=NetK2_4 Pin=L9-3
+Added Member To Class: ClassName=04_Debugging Member=Component C38 100p
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component C69 10u
+Added Member To Class: ClassName=12_TempSensors Member=Component C165 100p
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component C176 100p
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD18 74HC00
+Added Member To Class: ClassName=11_Fun Member=Component DD19 74HC14PW
+Added Member To Class: ClassName=08_Parallel_operation Member=Component DD21 ISO1410DW
+Added Member To Class: ClassName=08_Parallel_operation Member=Component DD25 ISO1410DW
+Added Member To Class: ClassName=09_MeasInUI Member=Component DD27 74HC244PW
+Added Member To Class: ClassName=04_Debugging Member=Component R18 100
+Added Member To Class: ClassName=04_Debugging Member=Component R19 100
+Added Member To Class: ClassName=04_Debugging Member=Component R20 100
+Added Member To Class: ClassName=04_Debugging Member=Component R22 100
+Added Member To Class: ClassName=05_FOC_RS_Interface Member=Component R40 100
+Added Member To Class: ClassName=05_FOC_RS_Interface Member=Component R41 100
+Added Member To Class: ClassName=05_FOC_RS_Interface Member=Component R42 200
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R45 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R46 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R47 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R48 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R70 1K
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component R71 200K
+Added Member To Class: ClassName=07_EEPR_DISCHAR Member=Component R74 100
+Added Member To Class: ClassName=07_EEPR_DISCHAR Member=Component R78 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R84 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R87 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R89 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R90 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R93 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R94 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R95 619
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R97 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R98 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R101 100
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R102 619
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R104 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R107 10K
+Added Member To Class: ClassName=08_Parallel_operation Member=Component R109 619
+Added Member To Class: ClassName=09_MeasInUI Member=Component R112 100
+Added Member To Class: ClassName=09_MeasInUI Member=Component R113 100
+Added Member To Class: ClassName=09_MeasInUI Member=Component R114 100
+Added Member To Class: ClassName=09_MeasInUI Member=Component R116 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R117 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R118 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R121 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R122 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R127 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R128 100
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R130 5K6
+Added Member To Class: ClassName=10_MeasOutUI Member=Component R132 100
+Added Member To Class: ClassName=11_Fun Member=Component R137 10K
+Added Member To Class: ClassName=11_Fun Member=Component R139 100
+Added Member To Class: ClassName=11_Fun Member=Component R141 100
+Added Member To Class: ClassName=11_Fun Member=Component R142 2.2K
+Added Member To Class: ClassName=11_Fun Member=Component R144 10K
+Added Member To Class: ClassName=12_TempSensors Member=Component R146 2K
+Added Member To Class: ClassName=12_TempSensors Member=Component R147 100
+Added Member To Class: ClassName=12_TempSensors Member=Component R149 100
+Added Member To Class: ClassName=12_TempSensors Member=Component R150 100
+Added Member To Class: ClassName=12_TempSensors Member=Component R151 2K
+Added Member To Class: ClassName=12_TempSensors Member=Component R152 2K
+Added Member To Class: ClassName=12_TempSensors Member=Component R153 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R162 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R164 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R165 100
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R166 10K
+Added Member To Class: ClassName=13_AdditionalFunction Member=Component R168 100
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component VD17 PMLL4148
+Added Member To Class: ClassName=07_EEPR_DISCHAR Member=Component VD27 LL-S172SC-2S
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

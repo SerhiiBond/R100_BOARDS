@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=~220V_N Pin= X4-2
+Removed Pin From Net: NetName=~220V_L Pin= X4-3
+Change Component Footprint: Designator=X13 Old Footprint=B04P-NV New Footprint=B04P-NV (power)
+Added Pin To Net: NetName=~220V_L Pin= X4-2
+Added Pin To Net: NetName=~220V_N Pin= X4-3

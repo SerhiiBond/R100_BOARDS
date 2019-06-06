@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SW_REL_12V Pin=C69-2
+Added Pin To Net: NetName=+12V Pin=C69-2
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component VD16 SMAJ12CA

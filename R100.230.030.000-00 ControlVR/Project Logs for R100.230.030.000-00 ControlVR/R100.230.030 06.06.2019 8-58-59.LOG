@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXT_OFF_B Pin=X15-15
+Added Pin To Net: NetName=EXT_OFF_A Pin=X15-15
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component K1 FTR-B4GA012Z
+Added Member To Class: ClassName=08_Parallel_operation Member=Component X15 IDC20

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetC168_1 Pin=L13-1
+Removed Pin From Net: NetName=GND_C Pin=L13-2
+Removed Pin From Net: NetName=+5V Pin=L13-3
+Removed Pin From Net: NetName=NetC173_1 Pin=L16-1
+Removed Pin From Net: NetName=GND_C Pin=L16-2
+Removed Pin From Net: NetName=+5V Pin=L16-3
+Removed Pin From Net: NetName=NetC168_1 Pin=X22-5
+Removed Pin From Net: NetName=NetC173_1 Pin=X23-5
+Removed Member From Class: ClassName=12_TempSensors Member=L13
+Removed Member From Class: ClassName=12_TempSensors Member=L16
+Change Component Comment : Designator=C168 Old Comment=0.1u New Comment=100p
+Change Component Comment : Designator=C173 Old Comment=0.1u New Comment=100p
+Change Component Comment : Designator=R35 Old Comment=200 New Comment=390
+Change Component Comment : Designator=R42 Old Comment=200 New Comment=390
+Added Component: Designator=C33(SMD_C_0603)
+Added Component: Designator=C182(SMD_C_0603)
+Added Pin To Net: NetName=GND_SHLD Pin=C33-2
+Added Pin To Net: NetName=GND_SHLD Pin=C168-2
+Added Pin To Net: NetName=GND_SHLD Pin=C173-2
+Added Pin To Net: NetName=GND_SHLD Pin=C182-2
+Added Pin To Net: NetName=NetC168_1 Pin=L1-1
+Added Pin To Net: NetName=NetC173_1 Pin=L14-1
+Added Pin To Net: NetName=+5V Pin=X22-1
+Added Pin To Net: NetName=NetC168_1 Pin=X22-2
+Added Pin To Net: NetName=GND_C Pin=X22-5
+Added Pin To Net: NetName=+5V Pin=X23-1
+Added Pin To Net: NetName=NetC173_1 Pin=X23-2
+Added Pin To Net: NetName=GND_C Pin=X23-5
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=L11-1
+Added Pin To Net: NetName=NetC33_1 Pin=X22-3
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC182_1 Pin=C182-1
+Added Pin To Net: NetName=NetC182_1 Pin=L15-1
+Added Pin To Net: NetName=NetC182_1 Pin=X23-3
+Added Net: Name=NetC182_1
+Added Member To Class: ClassName=12_TempSensors Member=Component C33 100p
+Added Member To Class: ClassName=12_TempSensors Member=Component C182 100p
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component DD12 74HC00
+Added Member To Class: ClassName=12_TempSensors Member=Component X23 Sherlock 5

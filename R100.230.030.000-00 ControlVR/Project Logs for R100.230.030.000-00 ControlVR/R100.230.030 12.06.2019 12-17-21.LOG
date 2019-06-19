@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SYNC_PWM_+ Pin=X15-3
+Removed Member From Class: ClassName=08_Parallel_operation Member=R173
+Added Pin To Net: NetName=SYNC_PWM+ Pin=X15-3
+Added Member To Class: ClassName=08_Parallel_operation Member=Component X15 IDC16
+Added Room: Name=02_MCU
+Added Room: Name=03_PowerSupply
+Added Room: Name=04_Debugging
+Added Room: Name=05_FOC_RS_Interface
+Added Room: Name=06_PowerRele_OnOff
+Added Room: Name=07_EEPR_DISCHAR
+Added Room: Name=08_Parallel_operation
+Added Room: Name=09_MeasInUI
+Added Room: Name=10_MeasOutUI
+Added Room: Name=11_Fun
+Added Room: Name=12_TempSensors
+Added Room: Name=13_AdditionalFunction

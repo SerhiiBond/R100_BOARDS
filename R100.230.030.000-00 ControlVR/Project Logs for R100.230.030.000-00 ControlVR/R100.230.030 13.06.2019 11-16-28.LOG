@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=\R\E\/DE Pin=DD2-20
+Added Pin To Net: NetName=EXT_FUN_PWM Pin=DD2-36
+Added Pin To Net: NetName=INT_FUN_PWM Pin=DD2-37
+Added Pin To Net: NetName=SYNC_PWM Pin=DD2-41
+Added Pin To Net: NetName=VER1 Pin=DD2-45
+Added Pin To Net: NetName=VER2 Pin=DD2-46
+Added Pin To Net: NetName=RX_RS485 Pin=DD2-58
+Added Pin To Net: NetName=TX_RS485 Pin=DD2-59
+Added Pin To Net: NetName=INT_FUN_SP Pin=DD2-96
+Added Pin To Net: NetName=EXT_FUN_SP1 Pin=DD2-98
+Added Pin To Net: NetName=EXT_FUN_SP2 Pin=DD2-99
+Change Net Name : Old Net Name=PIN9_X15 New Net Name=MOUT+_5V
+Change Net Name : Old Net Name=PIN10_X15 New Net Name=MOUT-_GND
+Change Net Name : Old Net Name=PIN11_X15 New Net Name=MIN+_5V
+Change Net Name : Old Net Name=PIN12_X15 New Net Name=MIN-_GND

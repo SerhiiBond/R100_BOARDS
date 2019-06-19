@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=+3V3 Pin=C33-2
+Removed Member From Class: ClassName=03_PowerSupply Member=C33
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetR10_1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3V3 Pin=R23-1
+Removed Pin From Net: NetName=+3V3 Pin=R24-1
+Change Component Comment : Designator=R23 Old Comment=300 New Comment=390
+Change Component Comment : Designator=R24 Old Comment=300 New Comment=390
+Added Pin To Net: NetName=+5V Pin=R23-1
+Added Pin To Net: NetName=+5V Pin=R24-1
+Added Member To Class: ClassName=02_MCU Member=Component C8 0.1u
+Added Member To Class: ClassName=11_Fun Member=Component C160 1n
+Added Member To Class: ClassName=02_MCU Member=Component DD2 STM32F767ZI
+Added Member To Class: ClassName=10_MeasOutUI Member=Component X1 MI II (53313-1265)

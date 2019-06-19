@@ -1,0 +1,5 @@
+Added Component: Designator=VD19(SOD80C)
+Added Pin To Net: NetName=GND_C Pin=VD19-1
+Added Pin To Net: NetName=NetK3_1 Pin=VD19-2
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component C70 0.1u
+Added Member To Class: ClassName=06_PowerRele_OnOff Member=Component VD19 PMLL4148

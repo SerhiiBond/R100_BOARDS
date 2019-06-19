@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: R100.230.030.001-00 ControlVR.PcbDoc   28.05.2019  16:34:28
+NCDrill File Report For: R100.230.030.001-00 ControlVR.PcbDoc   18.06.2019  12:29:10
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -7,16 +7,19 @@ ASCII RoundHoles File : R100.230.030.001-00 ControlVR.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.5mm (20mil)                                             Round             758       PTH        3391.46mm (133.52inch)
-T2      0.7mm (28mil)                                             Round             51        PTH        594.61mm (23.41inch)
-T3      0.8mm (31mil)                                             Round             113       PTH        919.98mm (36.22inch)
-T4      1mm (39mil)                                               Round             18        PTH        191.37mm (7.53inch)
-T5      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
-T6      1.3mm (51mil)                                             Round             24        PTH        160.50mm (6.32inch)
-T7      1.5mm (59mil)                                             Round             9         PTH        235.35mm (9.27inch)
-T8      1.8mm (71mil)                                             Round             9         PTH        55.00mm (2.17inch)
-T9      4mm (157mil)                                              Round             6         PTH        511.13mm (20.12inch)
+T1      0.5mm (20mil)                                             Round             792       PTH        3561.47mm (140.22inch)
+T2      0.7mm (28mil)                                             Round             40        PTH        454.91mm (17.91inch)
+T3      0.8mm (31mil)                                             Round             12        PTH        22.50mm (0.89inch)
+T4      0.813mm (32mil)                                           Round             78        PTH        761.53mm (29.98inch)
+T5      1mm (39mil)                                               Round             50        PTH        349.96mm (13.78inch)
+T6      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T7      1.3mm (51mil)                                             Round             24        PTH        149.54mm (5.89inch)
+T8      1.5mm (59mil)                                             Round             5         PTH        155.52mm (6.12inch)
+T9      1.524mm (60mil)                                           Round             2         PTH        5.08mm (0.20inch)
+T10     1.7mm (67mil)                                             Round             5         PTH        25.30mm (1.00inch)
+T11     1.8mm (71mil)                                             Round             4         PTH        15.00mm (0.59inch)
+T12     4mm (157mil)                                              Round             5         PTH        511.12mm (20.12inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              991
+Totals                                                                              1020
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

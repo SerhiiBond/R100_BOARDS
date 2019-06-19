@@ -93,7 +93,7 @@ DocumentUniqueId=YAQBUOAH
 DocumentPath=01_MainSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=12
@@ -109,8 +109,8 @@ DocumentUniqueId=HBKGSFSP
 [Document5]
 DocumentPath=02_MCU.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=2
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -126,8 +126,8 @@ DocumentUniqueId=JTFNBFFY
 [Document6]
 DocumentPath=03_PowerSupply.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=3
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -143,8 +143,8 @@ DocumentUniqueId=VIQCTREN
 [Document7]
 DocumentPath=04_Debugging.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=4
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
@@ -160,8 +160,8 @@ DocumentUniqueId=HEIFBFES
 [Document8]
 DocumentPath=05_FOC_RS_Interface.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=5
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -177,8 +177,8 @@ DocumentUniqueId=SCMYMPEC
 [Document9]
 DocumentPath=06_PowerRele_OnOff.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=6
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
@@ -194,8 +194,8 @@ DocumentUniqueId=MXWQMRQO
 [Document10]
 DocumentPath=07_EEPR_DISCHAR.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=7
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
@@ -211,8 +211,8 @@ DocumentUniqueId=PWPUUVOV
 [Document11]
 DocumentPath=08_Parallel_operation.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=8
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
@@ -228,8 +228,8 @@ DocumentUniqueId=XDCJUMEY
 [Document12]
 DocumentPath=09_MeasInUI.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=9
-AnnotationIndexControlEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=7
@@ -246,7 +246,7 @@ DocumentUniqueId=NDYBXFIM
 DocumentPath=10_MeasOutUI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
@@ -263,7 +263,7 @@ DocumentUniqueId=FIYEVNSI
 DocumentPath=11_Fun.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=9
@@ -280,7 +280,7 @@ DocumentUniqueId=CLHTCKFI
 DocumentPath=12_TempSensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=10
@@ -297,7 +297,7 @@ DocumentUniqueId=YEDCUBYC
 DocumentPath=13_AdditionalFunction.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=11
@@ -345,57 +345,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\R100.230.030.001-00 ControlVR.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document20]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,6 +378,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\BOM\Bill of Materials-R100.230.030.000-00 ControlVR.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Design Rule Check - R100.230.030.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\AutoCAD PCB\R100.230.030.001-00 ControlVR.DWG
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\ExportSTEP\R100.230.030.001-00 ControlVR.step
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -444,7 +461,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -565,7 +582,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -694,11 +711,17 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Logic Analyser Print
+OutputName20=Logic Analyser Prints
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -720,7 +743,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -796,7 +819,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -833,7 +856,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1013,7 +1036,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1052,7 +1075,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Canon G3010 series
+TargetPrinter=SEC30CDA7EB5137
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB

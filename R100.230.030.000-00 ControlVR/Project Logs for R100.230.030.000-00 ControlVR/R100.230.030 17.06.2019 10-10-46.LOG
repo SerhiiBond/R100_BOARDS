@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND_SHLD Pin=X9-2
+Removed Pin From Net: NetName=GND_SHLD Pin=X10-2
+Removed Pin From Net: NetName=NetK2_6 Pin=X10-3
+Removed Pin From Net: NetName=NetK2_8 Pin=X10-4
+Removed Pin From Net: NetName=NetK2_1 Pin=X10-5
+Change Component Footprint: Designator=X10 Old Footprint=35362-0550 New Footprint=35362-0450
+Change Component Comment : Designator=X10 Old Comment=Sherlock 5 New Comment=Sherlock 4
+Added Pin To Net: NetName=NetK2_6 Pin=X10-2
+Added Pin To Net: NetName=NetK2_8 Pin=X10-3
+Added Pin To Net: NetName=NetK2_1 Pin=X10-4

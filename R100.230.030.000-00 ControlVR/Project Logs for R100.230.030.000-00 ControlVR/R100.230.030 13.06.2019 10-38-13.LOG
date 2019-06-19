@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=INT_FUN_PWM Pin=DD2-18
+Removed Pin From Net: NetName=EXT_FUN_PWM Pin=DD2-35
+Removed Pin From Net: NetName=INT_FUN_SP Pin=DD2-36
+Removed Pin From Net: NetName=VER2 Pin=DD2-40
+Removed Pin From Net: NetName=VER1 Pin=DD2-41
+Removed Pin From Net: NetName=EXT_FUN_SP1 Pin=DD2-46
+Removed Pin From Net: NetName=EXT_FUN_SP2 Pin=DD2-47
+Removed Pin From Net: NetName=SYNC_PWM Pin=DD2-89
+Removed Pin From Net: NetName=\R\E\/DE Pin=DD2-93
+Removed Pin From Net: NetName=TX_RS485 Pin=DD2-96
+Removed Pin From Net: NetName=RX_RS485 Pin=DD2-97

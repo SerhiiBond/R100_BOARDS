@@ -1,0 +1,32 @@
+Разъемы	Вилка	35362-0650	Molex	Sherlock 6 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	X7 X8	Рекомендуется		Плата Inventor				
+Разъемы	Вилка	B3P-VH	JST	VH 3 конт LS=3.96 10A 250V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	X4	Рекомендуется		Плата Inventor				
+Клеммы, кабельные наконечники	Вилка	63849-1	TE Connectivity	Ножевая Латунь Луженая 6.3х0.8 PCB hole			ТОВ "СТТ-центр"	4.000	шт.	X3 X5 X6 X9	Рекомендуется		Плата Inventor		UL E28476 UL E13288 LR7189A-509		
+Разъемы	Вилка	B04P-NV	JST	NV 4 конт LS=5.0 10A 250V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	X1 X2	Рекомендуется		Плата Inventor				
+Транзисторы	Транзистор выводной	IRG4PC40UDPBF	International Rectif	IGBT 600V 40A		TO-247AC	ТОВ "АІРОНІКС КОМПОНЕНТС"	4.000	шт.	VT1 VT2 VT3 VT4	Не рекомендуется		Плата Inventor				
+Полупроводниковые приборы	Стабилитрон SMD	BZV55-C16	NXP	0.5W Vz=16V +-5%		SOD80C	ТОВ "Імрад"	2.000	шт.	VD14 VD19	Не рекомендуется		Плата Inventor				
+Полупроводниковые приборы	Диод SMD	US1M	VISHAY	Vr=1000V If=1A		DO-214AC	ТОВ "АІРОНІКС КОМПОНЕНТС"	4.000	шт.	VD11 VD12 VD16 VD17	Рекомендуется		Плата Inventor		SMA Ultrafast		
+Полупроводниковые приборы	Диод SMD	ES1B	VISHAY	Vr=100V If=1A		DO-214AC	ТОВ "Імрад"	4.000	шт.	VD10 VD13 VD15 VD18	Не рекомендуется		Плата Inventor		SMA Ultrafast		
+Полупроводниковые приборы	Диод выводной	STTH4R02S	STMicroelectronics	Vr=200V If=4A		SMC	ТОВ "Імрад"	4.000	шт.	VD2 VD3 VD5 VD6	Рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06030000Z0	VISHAY	0R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	R22 R30	Рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW080549R9FK	VISHAY	49R9 +-1%		SMD0805	ТОВ "АМел"	2.000	шт.	R21 R29	Рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW12061R00FK	VISHAY	1R +-1%		SMD1206	ТОВ "СТТ-центр"	4.000	шт.	R20 R24 R28 R32	Рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW12066R20FK	VISHAY	6R2 +-1%		SMD1206	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	R19 R23 R27 R31	Не рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0603100RFK	VISHAY	100R +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	R17 R18 R25 R26	Рекомендуется		Плата Inventor				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW25124R70FK	VISHAY	4R7 +-1%		SMD2512	ТОВ "НВП Євроком Компонентс"	4.000	шт.	R2 R3 R8 R9	Не рекомендуется		Плата Inventor		Недоступен		
+Дроссели	Дроссель SMD	DLW5BSM302SQ2	muRata	3000R (100MHz) 0.5A 0.3R common mode		SMD	ТОВ "Імрад"	2.000	шт.	L9 L10	Не рекомендуется		Плата Inventor				
+Механические изделия	Радиатор	C40-058-VE	OHMITE	C40 S=41180mm2 L=58mm (TO-247 TO-264 SOT227)			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	HS1 HS2 HS3 HS4	Не рекомендуется		Плата Inventor				
+Источники питания	Преобразователь DC-DC	TMV1215S	TRACO POWER	1W 12 to 15VDC 65mA 3kViso		SIP-7	CКЛАД Оранского	2.000	шт.	DD3 DD4	Не рекомендуется		Плата Inventor				
+Микросхемы	Микросхема	ADUM3200ARZ	Analog Device	2xDigital Isolator 1Mbps	ADUM3200ARZ	SO-8	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	DD1 DD2	Не рекомендуется		Плата Inventor		Dual-Channel, Digital Isolators		
+Микросхемы	Микросхема	TLV1117-50IDCY	Texas Instruments	Voltage regulator 5V 800mA		SOT-223	ТОВ "Імрад"	2.000	шт.	DA3 DA6	Рекомендуется		Плата Inventor				
+Микросхемы	Микросхема	IRS21844SPBF	International Rectif	Half-Bridge Driver		SO-14	ТОВ "Імрад"	2.000	шт.	DA1 DA4	Рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71E105KA12	muRata	1uF 25V 10% X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	C62 C63	Рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM31MR61E106M	muRata	10uF 25V 20% X5R		SMD1206	ПП "НВФ "VD MAIS"	8.000	шт.	C40 C42 C43 C46 C54 C55 C56 C60	Рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71H104K	muRata	0.1uF 50V 10%  X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	12.000	шт.	C37 C38 C39 C41 C44 C47 C51 C52 C53 C57 C58 C61	Рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM32ER72A225K	muRata	2.2uF 100V 10%  X7R		SMD1210	ТОВ "СТТ-центр"	4.000	шт.	C36 C45 C50 C59	Не рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C2A101JA01	muRata	100pF 100V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	C34 C35 C48 C49	Рекомендуется		Плата Inventor				
+Конденсаторы	Конденсатор пленочный	MKP1J042207G00	WIMA	MKP10 2.2uF 630V +-20% L41.5 H39.5 W20 LS=37.5		Radial LS=37.5	ТОВ "ТОК ЕЛЕКТРОНІКС"	2.000	шт.	C15 C17			Плата Inventor		p=37.5		
+Конденсаторы	Конденсатор электролитический	LG450M0470BPF-3545	YAGEO	470uF 450VDC 105C D35 H45		Radial LS=10	ТОВ "Імрад"	6.000	шт.	C6 C8 C9 C10 C11 C12	Не рекомендуется		Плата Inventor		Аналог LGW2W471MELC45  Nichicon		
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM43DR72J104K	muRata	0.1uF 630V 10% X7R		SMD1812	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	C4 C16 C24 C33	Рекомендуется		Плата Inventor				
+Конденсаторы	Конденсатор SMD	1808GC152KAT	muRata	1.5nF 2kV 10%  X7R		SMD1808	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	C2 C3 C26 C29	Не рекомендуется		Плата Inventor				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GA355DR7GF472KW01	muRata	4700pF 250V(rms) 10%  X7R X1/Y2		SMD2220	ТОВ "Імрад"	4.000	шт.	C1 C5 C7 C30	Не рекомендуется		Плата Inventor				
+__ПЛАТЫ ПЕЧАТНЫЕ/R100	Печатная плата		ОЛТЕСТ	R100.230.010.001-00 Invertor	Печатная плата		Договор №22	1.000	шт.		Рекомендуется		Плата Inventor			R100.230.010.001-00 Invertor	

@@ -1,10 +1,10 @@
-Output: AutoCAD dwg/dxf File PCB
+Output: Copy of AutoCAD dwg/dxf File PCB
 Type  : AutoCAD PCB
 From  : PCB Document [R100.230.020.001-00 MeasInUI.PcbDoc]
-   Generated File[R100.230.020.001-00 MeasInUI.DWG]
+   Generated File[R100.230.020.00-00 MeasInUI.DXF]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:18:06 On 28.05.2019
+Finished Output Generation At 10:39:58 On 11.07.2019

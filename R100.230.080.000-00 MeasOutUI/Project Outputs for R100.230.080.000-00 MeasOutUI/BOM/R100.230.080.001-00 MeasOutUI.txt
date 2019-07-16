@@ -1,0 +1,35 @@
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08051K00FK	VISHAY	1K +-1%		SMD0805	ТОВ "Імрад"	1.000	шт.	R2	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06031K00FK	VISHAY	1K +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	R4 R7	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06030000Z0	VISHAY	0R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	R5 R10	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805200KFK	VISHAY	200K +-1%		SMD0805	ТОВ "АМел"	3.000	шт.	R6 R14 R25	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW12066K81FK	VISHAY	6K81 +-1%		SMD1206	ТОВ "СЕА Електронікс"	2.000	шт.	R8 R11	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08051K2FK	VISHAY	1K2 +-1%		SMD0805		1.000	шт.	R16	Не рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08052K20FK	VISHAY	2K2 +-1%		SMD0805		2.000	шт.	R17 R21	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW080549R9FK	VISHAY	49R9 +-1%		SMD0805	ТОВ "АМел"	1.000	шт.	R18	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805680KFK	VISHAY	680K +1%		SMD0805		2.000	шт.	R19 R24	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805130KFK	VISHAY	130K +-1%		SMD0805		2.000	шт.	R20 R26	Рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резисторная сборка SMD	CRA06S083100RF	VISHAY	4x100R +-1%		SMD	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	RN1 RN2	Рекомендуется		Плата MeasOutUI				
+Полупроводниковые приборы	Диод шоттки SMD	NSR0320MW2T1G	ON SEMICONDUCTOR	Vr=20V If=1A	NSR0320MW2T1G	SOD-323	ТОВ "Імрад"	2.000	шт.	VD1 VD3	Рекомендуется		Плата MeasOutUI		Шоттки 20V, 1А,		
+Полупроводниковые приборы	Стабилитрон SMD	BZV55-B5V6	NXP	0.5W Vz=5.6V +-2%		SOD80C		2.000	шт.	VD2 VD4	Рекомендуется		Плата MeasOutUI				
+Индикаторы, оптические излучатели	Светодиод SMD	LL-S172SC-2S	Lucky Light	Красный 640нм 2x1.25мм		SMD0805	CКЛАД Оранского	2.000	шт.	VD5 VD6	Рекомендуется		Плата MeasOutUI				
+Транзисторы	Транзистор SMD	PDTC114ET	NXP	NPN Vce=50V Ic=0.1A 10k		SOT-23	ФОП Коcенко Сергій Віталійович	2.000	шт.	'VT1 VT2	Рекомендуется		Плата MeasOutUI				
+Разъемы	Вилка	22-28-9080	Molex	KK254 42377 угловой 8 конт LS=2.54 4A 250VDC PCB	KK254 42377 угловой 8 конт LS=2.54 4A 250VDC PCB (PLS-8R)		ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	X1	Рекомендуется		Плата MeasOutUI				
+Разъемы	Вилка	53313-1265	Molex	Mi II 12 конт (6конт x 2) LS=2 2A 125V  PCB			ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	X2	Рекомендуется		Плата MeasOutUI		ответная часть 51089-1205		
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71H104K	muRata	0.1uF 50V 10%  X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	11.000	шт.	C1 C10 C14 C20 C21 C29 C30 C37 C38 C40 C43	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM21BR61E475M	muRata	4.7uF 25V 20%  X5R		SMD0805	ТОВ "СЕА Електронікс"	3.000	шт.	C2 C4 C6	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRJ188R72A103KE11#	muRata	10nF 100V 10% X7R		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	5.000	шт.	C3 C17 C23 C36 C45	Не рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM31MR61E106M	muRata	10uF 25V 20% X5R		SMD1206	ПП "НВФ "VD MAIS"	6.000	шт.	C5 C12 C18 C41 C42 C44	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71E105KA12	muRata	1uF 25V 10% X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	7.000	шт.	C7 C9 C15 C19 C33 C34 C35	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM32ER71E226K	muRata	22uF 25V 10%  X7R		SMD1210	ТОВ "АІРОНІКС КОМПОНЕНТС"	1.000	шт.	C8	Не рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C1H102JA01	muRata	1nF 50V 5% NP0		SMD0603	ПП "НВФ "VD MAIS"	4.000	шт.	C11 C22 C39 C46	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C2A101JA01	muRata	100pF 100V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	8.000	шт.	C13 C16 C24 C25 C26 C27 C28 C47	Рекомендуется		Плата MeasOutUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM216R72A103MAC4#	muRata	10nF 100V 20%  X7R		SMD0805	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	C31 C32	Запрещается		Плата MeasOutUI		Не доступен		
+Микросхемы	Микросхема	ADS8684AIDBT	Texas Instruments	16-bit 500ksps ADC with MUX		TSSOP-38	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	DA1	Не рекомендуется		Плата MeasOutUI		16-Bit SAR Analog-to-Digital Converter		
+Микросхемы	Микросхема	AD822AR	Analog Device	2xOp Ampl Rail FET 30V		SO-8	ТОВ "Імрад"	1.000	шт.	DA2			Плата MeasOutUI				
+Микросхемы	Микросхема	INA200AIDGK	Texas Instruments	Current-Shunt Monitor Ref G=20		MSOP-8	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	DA3 DA6	Рекомендуется		Плата MeasOutUI				
+Микросхемы	Микросхема	TPS60400DBV	Texas Instruments	Inverter Charge Pump 60mA		SOT-23-5	ТОВ "Імрад"	1.000	шт.	DA4	Рекомендуется		Плата MeasOutUI				
+Источники питания	Преобразователь DC-DC	TMV 1205S	TRACO POWER	1W 12 to 5VDC 200mA 3kViso		SIP-7	ТОВ "СТТ-центр"	1.000	шт.	DA5	Не рекомендуется		Плата MeasOutUI		DC/DC конвертор 1W 12V 5V		
+Микросхемы	Микросхема	ADUM3201ARZ	Analog Device	2/1xDigital Isolator 10Mbps	ADUM3201ARZ	SO-8	ТОВ "Імрад"	2.000	шт.	DD1 DD3	Не рекомендуется		Плата MeasOutUI		Dual-Channel, Digital Isolators		
+Микросхемы	Микросхема	ADUM3401BRWZ	Analog Device	3/1xDigital Isolator 10Mbps ESD		WSO-16	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	DD2			Плата MeasOutUI		DIGITAL ISOLATORS		
+Дроссели	Дроссель SMD	DLW5BSM302SQ2	muRata	3000R (100MHz) 0.5A 0.3R common mode		SMD	ТОВ "Імрад"	1.000	шт.	L1	Не рекомендуется		Плата MeasOutUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805390RFK	VISHAY	390R +-1%		SMD0805		8.000	шт.	R1 R3 R9 R12 R13 R15 R22 R23	Рекомендуется		Плата MeasOutUI				

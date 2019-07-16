@@ -1,0 +1,19 @@
+__ПЛАТЫ ПЕЧАТНЫЕ/R100	Печатная плата		ОЛТЕСТ	R100.230.220.001-00 MeasInUI	Печатная плата			1.000	шт.		Рекомендуется		Плата MeasInUI			R100.230.220.001-00 MeasInUI	
+Разъемы	Вилка	35362-0850	Molex	Sherlock 8 конт LS=2 2A 125V PCB			CКЛАД Оранского	1.000	шт.	X2	Рекомендуется		Плата MeasInUI				
+Клеммы, кабельные наконечники	Вилка	63849-1	TE Connectivity	Ножевая Латунь Луженая 6.3х0.8 PCB hole			ТОВ "СТТ-центр"	3.000	шт.	X1 X3.1 X3.2	Рекомендуется		Плата MeasInUI		UL E28476 UL E13288 LR7189A-509		
+Полупроводниковые приборы	Диод SMD	PMLL4148L	NXP	Vr=75V If=0.2A		SOD80C	ТОВ "Імрад"	6.000	шт.	VD1 VD2 VD3 VD4 VD5 VD6	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805470RFK	VISHAY	470R +-1%		SMD0805	ТОВ "АМел"	1.000	шт.	R12	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW060310K0FK	VISHAY	10K +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	R11	Рекомендуется		Плата MeasInUI				
+Резисторы	Шунт SMD	WSL36371L000F	VISHAY	WSL3637 3W R001 +-1%		SMD	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	R9	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805200RFK	VISHAY	200R +-1%		SMD0805	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	R8	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08051K00FK	VISHAY	1K +-1%		SMD0805	ТОВ "Імрад"	2.000	шт.	R7 R13	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0603100RFK	VISHAY	100R +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	R6 R10	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW12061K50FK	VISHAY	1K5 +-1%		SMD1206		2.000	шт.	R4 R5	Рекомендуется		Плата MeasInUI				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW1206390KFK	VISHAY	390K +-1%		SMD1206	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	3.000	шт.	R1 R2 R3	Рекомендуется		Плата MeasInUI				
+Дроссели	Фильтр	BLM31PG601SN1	muRata	600R 1.5A (100MHz)		SMD1206	ТОВ "Імрад"	4.000	шт.	L1 L2 L3 L4	Рекомендуется		Плата MeasInUI		DC 0.08R		
+Микросхемы	Микросхема	ADE7913ARIZ	Analog Device	ADC Delta-sigma 24bit 3-Channel		SO-20	CКЛАД Оранского	1.000	шт.	DA1	Рекомендуется		Плата MeasInUI		3-Channel Analog-to-Digital Converter with 4-wire SPI		
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C2A101JA01	muRata	100pF 100V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	C11 C12 C13 C14	Рекомендуется		Плата MeasInUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM21BR61E475M	muRata	4.7uF 25V 20%  X5R		SMD0805	ТОВ "СЕА Електронікс"	2.000	шт.	C7 C9	Рекомендуется		Плата MeasInUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM31MR61E106M	muRata	10uF 25V 20% X5R		SMD1206	ПП "НВФ "VD MAIS"	2.000	шт.	C3 C4	Рекомендуется		Плата MeasInUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GCM188R71H333KA55#	muRata	33nF 50V 10% X7R		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	C2 C6 C15 C16	Не рекомендуется		Плата MeasInUI				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71H104K	muRata	0.1uF 50V 10%  X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	C1 C5 C8 C10	Рекомендуется		Плата MeasInUI				

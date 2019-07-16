@@ -1,10 +1,10 @@
-Output: AutoCAD dwg/dxf File PCB
+Output: Copy of AutoCAD dwg/dxf File PCB
 Type  : AutoCAD PCB
 From  : PCB Document [R100.230.060.001-00 Filtr3.PcbDoc]
-   Generated File[R100.230.060.001-00 Filtr3.DWG]
+   Generated File[R100.230.060.000-00 Filtr3.DXF]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:27:02 On 28.05.2019
+Finished Output Generation At 10:48:36 On 11.07.2019

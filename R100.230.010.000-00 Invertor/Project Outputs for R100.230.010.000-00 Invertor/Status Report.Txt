@@ -1,10 +1,10 @@
-Output: AutoCAD dwg/dxf File PCB
+Output: Copy of AutoCAD dwg/dxf File PCB
 Type  : AutoCAD PCB
 From  : PCB Document [R100.230.010.001-00 Invertor.PcbDoc]
-   Generated File[R100.230.010.001-00 Invertor.DWG]
+   Generated File[R100.230.010.000-00 Invertor.DXF]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:25:04 On 28.05.2019
+Finished Output Generation At 10:37:50 On 11.07.2019

@@ -379,70 +379,58 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\BOM\Bill of Materials-R100.230.030.000-00 ControlVR.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Design Rule Check - R100.230.030.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\AutoCAD PCB\R100.230.030.001-00 ControlVR.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\ExportSTEP\R100.230.030.001-00 ControlVR.step
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for R100.230.030.000-00 ControlVR\Gerber\R100.230.030.001-00 ControlVR.TXT
 DItemRevisionGUID=
 

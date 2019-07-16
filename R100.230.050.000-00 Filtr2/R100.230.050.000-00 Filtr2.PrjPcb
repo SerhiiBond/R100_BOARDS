@@ -175,66 +175,54 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\BOM\Bill of Materials-R100.230.050.000-00 Filtr2.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Design Rule Check - R100.230.050.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\AutoCAD PCB\R100.230.050.001-00 Filtr2.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\ExportSTEP\R100.230.050.001-00 Filtr2.step
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for R100.230.050.000-00 Filtr2\Gerber\R100.230.050.001-00 Filtr2.TXT
 DItemRevisionGUID=
 

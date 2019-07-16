@@ -1,0 +1,88 @@
+Тумблеры, выключатели, кнопки	Кнопка	B3F-1025	OMRON	6x6mm h=5m black	Кнопка тактовая B3F-1025		ТОВ "Імрад"	1.000	шт.	SW1	Не рекомендуется		Плата ControlVR		Tactile Switches		
+Резисторы/VISHAY SMD	Резисторная сборка SMD	CRA06S083100RF	VISHAY	4x100R +-1%		SMD	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	RN1 RN2	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06032K00FK	VISHAY	2K +-1%		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	R154 R155 R160 R161	Не рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06032K20FK	VISHAY	2K2 +-1%		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	R143 R147 R149 R151	Не рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06035K60FK	VISHAY	5K6 +-1%		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	3.000	шт.	R139 R140 R142	Не рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06030000Z0	VISHAY	0R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	8.000	шт.	R85 R86 R89 R90 R92 R93 R94 R95	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08052K00FK	VISHAY	2K +-1%		SMD0805	ТОВ "АМел"	1.000	шт.	R78	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805200KFK	VISHAY	200K +-1%		SMD0805	ТОВ "АМел"	1.000	шт.	R70	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08051M00FK	VISHAY	1M +-1%		SMD0805		1.000	шт.	CRCW08051M00FK	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW1206510RFK	VISHAY	510R +-1%		SMD1206		3.000	шт.	R63 R64 R80	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08051K00FK	VISHAY	1K +-1%		SMD0805	ТОВ "Імрад"	4.000	шт.	R59 R61 R66 R67	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW12061K00FK	VISHAY	1K +-1%		SMD1206	ТОВ "СЕА Електронікс"	8.000	шт.	R42 R55 R62 R69 R71 R72 R164 R167	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805390RFK	VISHAY	390R +-1%		SMD0805		4.000	шт.	R22 R23 R34 R41	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW08054K70FK	VISHAY	4K7 +-1%		SMD0805	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	R16 R76	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW080510R0FK	VISHAY	10R +-1%		SMD0805	ТОВ "АМел"	1.000	шт.	R13	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06031K00FK	VISHAY	1K +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	5.000	шт.	R10 R32 R43 R56 R65	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0603100RFK	VISHAY	100R +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	78.000	шт.	R9 R17 R18 R19 R21 R24 R28 R35 R36 R37 R38 R39 R40 R44 R45 R46 R47 R48 R50 R51 R53 R54 R73 R74 R75 R77 R79 R82 R83 R87 R97 R101 R107 R108 R109 R114 R119 R120 R121 R122 R123 R124 R125 R126 R127 R128 R129 R130 R131 R132 R133 R134 R135 R136 R137 R138 R141 R144 R145 R148 R150 R152 R156 R157 R158 R159 R162 R163 R165 R166 R168 R170 R171 R172 R173 R174 R176 R177	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW080510K0FK	VISHAY	10K +-1%		SMD0805	CКЛАД Оранского	2.000	шт.	R8 R20	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW060310K0FK	VISHAY	10K +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	34.000	шт.	R5 R11 R12 R14 R15 R25 R27 R29 R30 R31 R49 R52 R57 R58 R60 R81 R88 R91 R96 R99 R100 R103 R104 R105 R110 R112 R113 R115 R116 R117 R146 R153 R169 R175	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW120618K7FK	VISHAY	18K7 +-1%		SMD1206	ТОВ "АМел"	4.000	шт.	R3 R4 R6 R7	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805150RFK	VISHAY	150R +-1%		SMD0805	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	3.000	шт.	R2 R26 R33	Рекомендуется		Плата ControlVR				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0603619RFK	VISHAY	619R +-1%		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	7.000	шт.	R1 R84 R98 R102 R106 R111 R118	Рекомендуется		Плата ControlVR				
+Разъемы	Вилка	53313-1265	Molex	Mi II 12 конт (6конт x 2) LS=2 2A 125V  PCB			ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	X16	Рекомендуется		Плата ControlVR		ответная часть 51089-1205		
+Разъемы	Вилка	35362-0850	Molex	Sherlock 8 конт LS=2 2A 125V PCB			CКЛАД Оранского	1.000	шт.	X15	Рекомендуется		Плата ControlVR				
+Разъемы	Вилка	09185166324	Harting	IDC 16P  LS=2.54 2A 250VAC PCB (BH-16)				2.000	шт.	X13 X14			Плата ControlVR				
+Разъемы	Вилка	B02P-NV	JST	NV 2 конт LS=5.0 10A 250V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	X12	Не рекомендуется		Плата ControlVR		UL E60389 CSA LR20812 TUV R9251676		
+Разъемы	Вилка	B04P-NV	JST	NV 4 конт LS=5.0 10A 250V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	X11	Рекомендуется		Плата ControlVR				
+Разъемы	Вилка	35362-0450	Molex	Sherlock 4 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	5.000	шт.	X8 X10 X19 X20 X21	Рекомендуется		Плата ControlVR				
+Разъемы	Вилка	35362-0350	Molex	Sherlock 3 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	X7 X9	Не рекомендуется		Плата ControlVR				
+Разъемы	Вилка	53253-0470	Molex	Micro-Latch 4 конт LS=2 2A 125V PCB			ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	X6	Не рекомендуется		Плата ControlVR				
+Разъемы	Вилка	35362-0650	Molex	Sherlock 6 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	3.000	шт.	X5 X17 X18	Рекомендуется		Плата ControlVR				
+Разъемы	Вилка	09185106904	Harting	IDC 10P  LS=2.54 2A 250VAC PCB long levers				1.000	шт.	X4	Рекомендуется		Плата ControlVR		IDC 10P  LS=2.54 2A 250VAC PCB long levers		
+Разъемы	Вилка	35362-0550	Molex	Sherlock 5 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	X3 X22 X23 X24	Не рекомендуется		Плата ControlVR				
+Разъемы	Вилка	B03P-NV	JST	NV 3 конт LS=5.0 10A 250V PCB			Р/РЫНОК	1.000	шт.	X2	Рекомендуется		Плата ControlVR		UL E60389 CSA LR20812 TUV R9251676		
+Транзисторы	Транзистор SMD	BC817	NXP	NPN Vce=-45V Ic=0.5A		SOT-23	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	VT4 VT7	Рекомендуется		Плата ControlVR				
+Клеммы, кабельные наконечники	Вилка	63849-1	TE Connectivity	Ножевая Латунь Луженая 6.3х0.8 PCB hole			ТОВ "СТТ-центр"	1.000	шт.	X1	Рекомендуется		Плата ControlVR		UL E28476 UL E13288 LR7189A-509		
+Транзисторы	Транзистор SMD	PDTC114ET	NXP	NPN Vce=50V Ic=0.1A 10k		SOT-23	ФОП Коcенко Сергій Віталійович	12.000	шт.	VT2 VT3 VT5 VT6 VT8 VT9 VT10 VT11 VT12 VT13 VT14 VT15	Рекомендуется		Плата ControlVR				
+Транзисторы	Транзистор SMD	PDTA114ET	NXP	PNP Vce=-50V Ic=0.1A 10k		SOT-23	ТОВ "Імрад"	1.000	шт.	VT1	Рекомендуется		Плата ControlVR				
+Полупроводниковые приборы	Диод TVS SMD	PSM712	ProTek Devices	600W Vr=12V Vr=7V		SOT-23		6.000	шт.	VD26 VD27 VD28 VD29 VD30 VD31	Не рекомендуется		Плата ControlVR				
+Полупроводниковые приборы	Диод TVS SMD	SMAJ12CA	Littelfuse	400W Vr=12V	SMAJ12CA	DO-214CA(SMA)	ТОВ "Імрад"	3.000	шт.	VD11 VD12 VD14	Рекомендуется		Плата ControlVR		SMA Transient Voltage Suppression Diode		
+Индикаторы, оптические излучатели	Светодиод SMD	LL-S172SC-2S	Lucky Light	Красный 640нм 2x1.25мм		SMD0805	CКЛАД Оранского	3.000	шт.	VD6 VD25 VD32	Рекомендуется		Плата ControlVR				
+Полупроводниковые приборы	Диод шоттки SMD	MBR0540T	ON Semiconductor	Vr=40V If=0.5A	0.5A/40V Schottky Diode (SOD-123)	SOD-123	ТОВ "Імрад"	1.000	шт.	VD5	Рекомендуется		Плата ControlVR				
+Полупроводниковые приборы	Диод SMD	PMLL4148L	NXP	Vr=75V If=0.2A		SOD80C	ТОВ "Імрад"	8.000	шт.	VD2 VD10 VD15 VD17 VD18 VD20 VD22 VD24	Рекомендуется		Плата ControlVR				
+Индикаторы, оптические излучатели	Светодиод SMD	LL-S172GC-2A	Lucky Light	Зеленый 570нм 2x1.25мм		SMD0805	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	12.000	шт.	VD1 VD3 VD4 VD7 VD8 VD9 VD13 VD16 VD19 VD21 VD23 VD33	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	TPD2E001DRLR	Texas Instruments	ESD-protection array 2-ch		SOT-553	ТОВ "Імрад"	1.000	шт.	DD4	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	FT232RL	FTDI	USB to UART BRIDGE		SSOP28	ТОВ "Імрад"	1.000	шт.	DD3	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	SN74LVC1G00DBV	Texas Instruments	2-in NAND	.	SOT-23-5		6.000	шт.	DD2 DD5 DD12 DD23 DD31 DD32	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	STM32F767ZI	STMicroelectronics	MCU 32-bit ARM Cortex-M7 + FPU		LQFP144	ТОВ "Імрад"	1.000	шт.	DD1	Рекомендуется		Плата ControlVR		MCU 32-bit ARM Cortex-M7 + FPU		
+Микросхемы	Микросхема	6N139-X007	VISHAY	Optocoupler darlingron 5.3kV 100 kbit/s		SMD	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	DA4	Не рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	TLV1117-33IDCY	Texas Instruments	Voltage regulator 3.3V 800mA		SOT-223	ТОВ "Імрад"	1.000	шт.	DA3	Рекомендуется		Плата ControlVR				
+Источники питания	Преобразователь AC-DC	IRM-20-12	Mean Well	20W 12VDC 1.8A PCB	Преобразователь AC/DC IRM-20-12		ТОВ "Імрад"	1.000	шт.	DA2	Рекомендуется		Плата ControlVR		UL E183223 TUV R50263339		
+Источники питания	Преобразователь DC-DC	TPSM84205	Texas Instrument	1.5A 5Vout up to 28 Vin StepDown module		EAB	ТОВ "Імрад"	1.000	шт.	DA1	Не рекомендуется		Плата ControlVR		Through-Hole Module		
+Конденсаторы	Конденсатор танталовый	TAJD107K020RNJ	AVX	TECAP 100uF 20VDC +-10%		SMD D	ТОВ "СТТ-центр"	3.000	шт.	C147 C151 C156			Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C1H330JA01	muRata	33pF 50V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	2.000	шт.	C42 C43	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C2A101JA01	muRata	100pF 100V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	66.000	шт.	C36 C41 C48 C51 C52 C57 C61 C62 C63 C64 C66 C70 C71 C74 C75 C76 C77 C78 C79 C89 C93 C94 C95 C99 C102 C106 C107 C108 C109 C112 C116 C117 C118 C119 C120 C121 C122 C123 C125 C126 C127 C128 C129 C130 C131 C132 C134 C135 C136 C139 C140 C141 C142 C145 C146 C163 C164 C165 C166 C167 C168 C173 C174 C178 C179 C180	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C1H102JA01	muRata	1nF 50V 5% NP0		SMD0603	ПП "НВФ "VD MAIS"	5.000	шт.	C35 C45 C150 C154 C159	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRJ188R72A103KE11#	muRata	10nF 100V 10% X7R		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	C32 C149 C153 C158	Не рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM21BR60J107M	muRata	100uF 6.3V 20%  X5R		SMD0805	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	3.000	шт.	C28 C30 C31	Не рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM31MR61E106M	muRata	10uF 25V 20% X5R		SMD1206	ПП "НВФ "VD MAIS"	9.000	шт.	C22 C23 C26 C27 C67 C69 C72 C98 C103	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM21BR61H225M	muRata	2.2uF 25V 10%  X7R		SMD0805	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	2.000	шт.	C14 C21	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71E105KA12	muRata	1uF 25V 10% X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	4.000	шт.	C13 C38 C80 C90	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71H104K	muRata	0.1uF 50V 10%  X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	75.000	шт.	C4 C5 C6 C7 C8 C9 C10 C11 C12 C15 C16 C17 C18 C19 C20 C24 C25 C29 C33 C37 C39 C40 C44 C46 C47 C49 C50 C53 C54 C55 C56 C58 C59 C60 C65 C68 C73 C81 C82 C83 C84 C85 C86 C87 C88 C91 C92 C96 C97 C100 C101 C104 C105 C110 C111 C113 C115 C124 C133 C137 C138 C143 C144 C148 C152 C155 C157 C161 C162 C169 C171 C172 C175 C177 C181	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM21BR61E475M	muRata	4.7uF 25V 20%  X5R		SMD0805	ТОВ "СЕА Електронікс"	7.000	шт.	C3 C34 C114 C160 C170 C176 C182	Рекомендуется		Плата ControlVR				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C1H220JA01	muRata	22pF 50V 5%  NP0		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	2.000	шт.	C1 C2	Рекомендуется		Плата ControlVR				
+Кварцевые резонаторы	Кварцевый резонатор	7A-12.000MAAJ-T	TXC	12MHz 30ppm 18pF 3ppm		SMD	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	BQ1	Рекомендуется		Плата ControlVR				
+Динамики, звуковые излучатели	Излучатель звука	KPX-G1205B	Kepo Electronics Co.	Магнитный 5VDC D12 H7.5		Radial LS=7.6	CКЛАД Оранского	1.000	шт.	B1	Рекомендуется		Плата ControlVR				
+Дроссели	Фильтр	BLM21AG102SN1	muRata	1000R 0.6A (100MHz)		SMD0805	ТОВ "Імрад"	8.000	шт.	L6 L7 L9 L10 L11 L12 L13 L14	Рекомендуется		Плата ControlVR		DC 0.27R		
+Дроссели	Дроссель SMD	DLW5BSM302SQ2	muRata	3000R (100MHz) 0.5A 0.3R common mode		SMD	ТОВ "Імрад"	2.000	шт.	L5 L8	Не рекомендуется		Плата ControlVR				
+Дроссели	Фильтр	744231091	Wurth Elektronik	WE-CNSW common line mod filter 90R 370mA		SMD0805	ТОВ "СТТ-центр"	1.000	шт.	L3	Не рекомендуется		Плата ControlVR				
+Дроссели	Дроссель SMD	DLW5BSM351SQ2	muRata	350R (100MHz) 2A 0.04R common mode		SMD	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	L2	Рекомендуется		Плата ControlVR				
+Дроссели	Фильтр	BLM31PG601SN1	muRata	600R 1.5A (100MHz)		SMD1206	ТОВ "Імрад"	2.000	шт.	L1 L4	Рекомендуется		Плата ControlVR		DC 0.08R		
+Реле	Реле	G2RL-24 DC12	OMRON	440VAC 8A DPDT 12VDC		PCB	ПП "НВФ "VD MAIS"	3.000	шт.	K4 K5 K7			Плата ControlVR				
+Реле	Реле	FTR-B4GA012Z	Fujitsu	250VAC 1A DPDT 12VDC		SMD	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	4.000	шт.	K1 K2 K3 K6	Рекомендуется		Плата ControlVR				
+Предохранители, разрядники	Предохранитель самовост. выводной	C250-400	SEA & LAND ELECTRONI	0.4A 240VAC 1.9R				2.000	шт.	F2 F3	Не рекомендуется		Плата ControlVR		UL E319079		
+Предохранители, разрядники	Предохранитель самовост. SMD	MF-MSMF010	Bourns	0.1A 60VDC 15R		SMD1812	ТОВ "Імрад"	1.000	шт.	F1	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	TCA9517DGKR	Texas Instruments	I2C Level-Shifting Bus Repeater		VSSOP8	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	DD33	Не рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	74HC14PW	NXP	6x(INVERTING SCHMITT TRIGGER)		TSSOP-14	ТОВ "Імрад"	1.000	шт.	DD30	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	SN74AHCT1G08DBV	Texas Instruments	2-in AND		SOT-23-5	ТОВ "Імрад"	4.000	шт.	DD26 DD27 DD28 DD29	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	74HCT245PW	NXP	8-in bus tranceiver 3-state		TSSOP-20	ТОВ "Імрад"	1.000	шт.	DD25	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	74HC244PW	NXP	8-in buffer 3-state		TSSOP-20	ТОВ "Імрад"	1.000	шт.	DD24	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	ISO1412DW	Texas Instruments	Isolated RS-485/RS-422 full-duplex  5-kVRMS		SO-16		1.000	шт.	DD21	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	ISO1410DW	Texas Instruments	Isolated RS-485/RS-422 half-duplex 5-kVRMS		SO-16		4.000	шт.	DD18 DD19 DD20 DD22	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	AT24C08C-STUM	Atmel	Serial EEPROM 8Kbit		SOT-23	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	DD17	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	SN74LVC1G32DBV	Texas Instruments	2-in OR Gate	SN74LVC1G32DBV	SOT-23-5	ТОВ "Імрад"	1.000	шт.	DD14	Не рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	74HC08PW	NXP	4x(2-in AND)		TSSOP-14	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	DD11	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	74HC00PW	NXP	4x(2-in NAND)		TSSOP-14	ТОВ "Імрад"	2.000	шт.	DD10 DD16	Рекомендуется		Плата ControlVR				
+Микросхемы	Микросхема	ADM3251EARWZ	Analog Device	Isolated RS-232 with dc-dc		WSO-20	ТОВ "Імрад"	1.000	шт.	DD8	Рекомендуется		Плата ControlVR		Isolated, Single-Channel RS-232 Line Driver/Receiver		
+Микросхемы	Микросхема	SN74LVC1G08DBV	Texas Instruments	2-in AND	SN74LVC1G08DBV	SOT-23-5	ТОВ "Імрад"	5.000	шт.	DD6 DD7 DD9 DD13 DD15	Рекомендуется		Плата ControlVR				

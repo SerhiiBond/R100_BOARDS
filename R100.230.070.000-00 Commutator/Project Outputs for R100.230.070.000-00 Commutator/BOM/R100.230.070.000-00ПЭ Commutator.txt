@@ -1,0 +1,20 @@
+__ПЛАТЫ/R100			ОЛТЕСТ	Плата MeasOutUI	Плата MeasOutUI			1.000	шт.	XP1	Не рекомендуется		Плата Commutator				
+Разъемы	Вилка	35362-0450	Molex	Sherlock 4 конт LS=2 2A 125V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	X6	Рекомендуется		Плата Commutator				
+Клеммы, кабельные наконечники	Вилка	63849-1	TE Connectivity	Ножевая Латунь Луженая 6.3х0.8 PCB hole			ТОВ "СТТ-центр"	5.000	шт.	X2 X3 X4 X5 X7	Рекомендуется		Плата Commutator		UL E28476 UL E13288 LR7189A-509		
+Разъемы	Вилка	B3P-VH	JST	VH 3 конт LS=3.96 10A 250V PCB			ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	X1	Рекомендуется		Плата Commutator				
+Полупроводниковые приборы	Диод SMD	PMLL4148L	NXP	Vr=75V If=0.2A		SOD80C	ТОВ "Імрад"	1.000	шт.	VD3	Рекомендуется		Плата Commutator				
+Индикаторы, оптические излучатели	Светодиод SMD	LL-S172GC-2A	Lucky Light	Зеленый 570нм 2x1.25мм		SMD0805	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	'VD2	Рекомендуется		Плата Commutator				
+Полупроводниковые приборы	Диодный мост	GSIB2560-E3/45	VISHAY	Vr=600V If=25A		GSIB-5S	ТОВ "Імрад"	1.000	шт.	VD1	Рекомендуется		Плата Commutator				
+Резисторы/VISHAY SMD	Резистор SMD	TNPW08051K50BE	VISHAY	1.5K +-0.1% 25ppm thin film	TNPW08051K50BE	SMD0805	ТОВ "СЕА Електронікс"	1.000	шт.	R8	Рекомендуется		Плата Commutator				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW0805300RFK	VISHAY	300R +-1%		SMD0805	ТОВ "СТТ-центр"	1.000	шт.	R7	Не рекомендуется		Плата Commutator				
+Резисторы/VISHAY SMD	Резистор SMD	CRCW06035K60FK	VISHAY	5K6 +-1%		SMD0603	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	R6	Не рекомендуется		Плата Commutator				
+Резисторы/VISHAY SMD	Резистор SMD	TNPW120630K0BE	VISHAY	30K +-0.1% 25ppm thin film	TNPW120630K0BE	SMD1206	ТОВ "СТТ-центр"	3.000	шт.	R3 R4 R5	Не рекомендуется		Плата Commutator				
+Резисторы	Шунт SMD	WSL36373L000F	VISHAY	WSL3637 3W R003 +-1%		SMD	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	R2	Рекомендуется		Плата Commutator				
+Резисторы	Резистор выводной	PRW05WJW47J	ROYALOHM	PRW 5W 4R7 +-5%		Axial	ТОВ "СТТ-центр"	1.000	шт.	R1	Рекомендуется		Плата Commutator				
+Дроссели	Фильтр	BLM31PG601SN1	muRata	600R 1.5A (100MHz)		SMD1206	ТОВ "Імрад"	2.000	шт.	L1 L2	Рекомендуется		Плата Commutator		DC 0.08R		
+Реле	Реле	T92S11D12-12	Tyco	600VAC 40A DPDT 12VDC		PCB	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	K1			Плата Commutator				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM1885C2A101JA01	muRata	100pF 100V 5% NP0		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	C6	Рекомендуется		Плата Commutator				
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM188R71H104K	muRata	0.1uF 50V 10%  X7R		SMD0603	ТОВ "РКС КОМПОНЕНТИ УКРАЇНА"	1.000	шт.	C5	Рекомендуется		Плата Commutator				
+Конденсаторы	Конденсатор пленочный	MKX21W41006D00M	WIMA	MKP-X2 1uF 275VAC +-20% L31.5 H24 W13		Radial LS=27.5	ТОВ "СТТ-центр"	1.000	шт.	C3	Не рекомендуется		Плата Commutator		Недоступен		
+Конденсаторы/SMD MURATA	Конденсатор SMD	GRM43DR72J104K	muRata	0.1uF 630V 10% X7R		SMD1812	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	1.000	шт.	C2	Рекомендуется		Плата Commutator				
+Конденсаторы	Конденсатор керамический	DE2E3KY472MA3	muRata	CCAP 4.7nF 250VAC(rms) X1Y2 F(JIS)		Radial LS=7.5	ТОВ "ГЛОБАЛ КОМПАНЕНТС"	2.000	шт.	C1 C4	Рекомендуется		Плата Commutator				
